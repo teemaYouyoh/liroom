@@ -1,0 +1,264 @@
+# Translation of Plugins - WP-PostViews - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WP-PostViews - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-12 08:53:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP-PostViews - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://lesterchan.net"
+msgstr "https://lesterchan.net"
+
+#. Author of the plugin
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin
+msgid "Enables you to display how many times a post/page had been viewed."
+msgstr "Ger dig möjlighet att visa hur många gånger ett inlägg/sida har visats."
+
+#. Plugin URI of the plugin
+msgid "https://lesterchan.net/portfolio/programming/php/"
+msgstr "https://lesterchan.net/portfolio/programming/php/"
+
+#: wp-postviews.php:962
+msgid "* If you are not using any category statistics, you can ignore it."
+msgstr "* Om du inte använder någon kategoristatistik kan du ignorera det."
+
+#: wp-postviews.php:959
+msgid "Separate mutiple categories with commas."
+msgstr "Separera flera kategorier med kommatecken."
+
+#: wp-postviews.php:958
+msgid "Category IDs:"
+msgstr "Kategori-ID:"
+
+#: wp-postviews.php:955
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> för att inaktivera."
+
+#: wp-postviews.php:954
+msgid "Maximum Post Title Length (Characters):"
+msgstr "Maximal längd på inläggets titel (tecken):"
+
+#: wp-postviews.php:951
+msgid "No. Of Records To Show:"
+msgstr "Antal poster att visa:"
+
+#: wp-postviews.php:944
+msgid "%s Only"
+msgstr "Endast %s"
+
+#: wp-postviews.php:941
+msgid "All"
+msgstr "Alla"
+
+#: wp-postviews.php:939
+msgid "Include Views From:"
+msgstr "Inkludera visningar från:"
+
+#: wp-postviews.php:934
+msgid "Most Viewed By Category"
+msgstr "Mest visade baserat på kategori"
+
+#: wp-postviews.php:933
+msgid "Most Viewed"
+msgstr "Mest visade"
+
+#: wp-postviews.php:931
+msgid "Least Viewed By Category"
+msgstr "Minst visade baserat på kategori"
+
+#: wp-postviews.php:930
+msgid "Least Viewed"
+msgstr "Minst visade"
+
+#: wp-postviews.php:928
+msgid "Statistics Type:"
+msgstr "Statistiktyp:"
+
+#: wp-postviews.php:925
+msgid "Title:"
+msgstr "Titel:"
+
+#: wp-postviews.php:864
+msgid "WP-PostViews views statistics"
+msgstr "WP-PostViews visningsstatistik"
+
+#: wp-postviews.php:813 wp-postviews.php:865 wp-postviews.php:913
+msgid "Views"
+msgstr "Visningar"
+
+#: wp-postviews.php:751
+msgid "<strong>%s</strong> view was generated."
+msgid_plural "<strong>%s</strong> views were generated."
+msgstr[0] "<strong>%s</strong> visning genererades."
+msgstr[1] "<strong>%s</strong> visningar genererades."
+
+#: wp-postviews.php:737 wp-postviews.php:739 wp-postviews.php:769
+msgid "%s Most Viewed Page"
+msgid_plural "%s Most Viewed Pages"
+msgstr[0] "%s mest visade sida"
+msgstr[1] "%s mest visade sidor"
+
+#: wp-postviews.php:732 wp-postviews.php:734 wp-postviews.php:763
+msgid "%s Most Viewed Post"
+msgid_plural "%s Most Viewed Posts"
+msgstr[0] "%s mest visade inlägg"
+msgstr[1] "%s mest visade inlägg"
+
+#. Plugin Name of the plugin
+#: wp-postviews.php:719 wp-postviews.php:721 wp-postviews.php:749
+msgid "WP-PostViews"
+msgstr "WP-PostViews"
+
+#: wp-postviews.php:286 wp-postviews.php:347 wp-postviews.php:409
+#: wp-postviews.php:471 wp-postviews.php:532 wp-postviews.php:594
+msgid "N/A"
+msgstr "Ej tillgängligt"
+
+#: wp-postviews.php:43
+msgid "PostViews"
+msgstr "PostViews"
+
+#: postviews-options.php:204
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: postviews-options.php:198
+msgid "Don't display on other pages"
+msgstr "Visa inte på andra sidor"
+
+#: postviews-options.php:193
+msgid "Other Pages:"
+msgstr "Andra sidor:"
+
+#: postviews-options.php:188
+msgid "Don't display on search pages"
+msgstr "Visa inte på söksidor"
+
+#: postviews-options.php:183
+msgid "Search Pages:"
+msgstr "Söksidor:"
+
+#: postviews-options.php:178
+msgid "Don't display on archive pages"
+msgstr "Visa inte på arkivsidor"
+
+#: postviews-options.php:173
+msgid "Archive Pages:"
+msgstr "Arkivsidor:"
+
+#: postviews-options.php:168
+msgid "Don't display on pages"
+msgstr "Visa inte på sidor"
+
+#: postviews-options.php:163
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: postviews-options.php:158
+msgid "Don't display on single posts"
+msgstr "Visa inte i enskilda inlägg"
+
+#: postviews-options.php:153
+msgid "Single Posts:"
+msgstr "Enskilda inlägg:"
+
+#: postviews-options.php:148
+msgid "Don't display on home page"
+msgstr "Visa inte på startsidan"
+
+#: postviews-options.php:147 postviews-options.php:157
+#: postviews-options.php:167 postviews-options.php:177
+#: postviews-options.php:187 postviews-options.php:197
+msgid "Display to registered users only"
+msgstr "Visa endast för registrerade användare"
+
+#: postviews-options.php:146 postviews-options.php:156
+#: postviews-options.php:166 postviews-options.php:176
+#: postviews-options.php:186 postviews-options.php:196
+msgid "Display to everyone"
+msgstr "Visa för alla"
+
+#: postviews-options.php:143
+msgid "Home Page:"
+msgstr "Startsida:"
+
+#: postviews-options.php:139
+msgid "Display Options"
+msgstr "Visningsalternativ"
+
+#: postviews-options.php:120
+msgid "Most Viewed Template:"
+msgstr "Mall för mest visade:"
+
+#: postviews-options.php:112 postviews-options.php:132
+msgid "Restore Default Template"
+msgstr "Återställ standardmall"
+
+#: postviews-options.php:109 postviews-options.php:121
+msgid "Allowed Variables:"
+msgstr "Tillåtna variabler:"
+
+#: postviews-options.php:108
+msgid "Views Template:"
+msgstr "Visningsmall:"
+
+#: postviews-options.php:92
+msgid "Use AJAX To Update Views:"
+msgstr "Använd AJAX för att uppdatera visningar:"
+
+#: postviews-options.php:86 postviews-options.php:96
+msgid "Yes"
+msgstr "Ja"
+
+#: postviews-options.php:85 postviews-options.php:95
+msgid "No"
+msgstr "Nej"
+
+#: postviews-options.php:82
+msgid "Exclude Bot Views:"
+msgstr "Exkludera robotvisningar:"
+
+#: postviews-options.php:77
+msgid "Registered Users Only"
+msgstr "Endast registrerade användare"
+
+#: postviews-options.php:76
+msgid "Guests Only"
+msgstr "Endast gäster"
+
+#: postviews-options.php:75
+msgid "Everyone"
+msgstr "Alla"
+
+#: postviews-options.php:72
+msgid "Count Views From:"
+msgstr "Räkna visningar från:"
+
+#: postviews-options.php:58 wp-postviews.php:993
+msgid "views"
+msgstr "visningar"
+
+#: postviews-options.php:55 wp-postviews.php:992
+msgid "%VIEW_COUNT% views"
+msgstr "%VIEW_COUNT% visningar"
+
+#: postviews-options.php:38
+msgid "No Post Views Option Updated"
+msgstr "Inga alternativ för inläggsvisning uppdaterade"
+
+#: postviews-options.php:33
+msgid "Updated"
+msgstr "Uppdaterat"
+
+#: postviews-options.php:28 postviews-options.php:69
+msgid "Post Views Options"
+msgstr "Alternativ för inläggsvisning"

@@ -1,0 +1,410 @@
+# Translation of Themes - Codilight Lite in Dutch
+# This file is distributed under the same license as the Themes - Codilight Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-23 10:11:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Codilight Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Codilight Lite"
+msgstr "Codilight Lite"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Homepagina"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "VolledigeBreedte"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Verder lezen %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:51
+msgid "Next article"
+msgstr "Volgende artikel"
+
+#: template-parts/content-single.php:45
+msgid "Previous article"
+msgstr "Vorige artikel"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "%s bewerken"
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:28
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met je zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr "FT Block 4"
+
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr "Toon een lijst van de populaire/nieuwste berichten om in de sidebar te gebruiken."
+
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr "Categorieblok:"
+
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr "FT Block 3"
+
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category"
+msgstr "Toon een lijst van berichten volgens een hoofdcategorie"
+
+#: inc/widgets/block_2_widget.php:204
+msgid "This widget only show posts has featured image."
+msgstr "De widget toont alleen berichten met een uitgelichte afbeelding."
+
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr "FT Block 2 - Slider"
+
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr "Widget met berichtenslider op homepagina."
+
+#: inc/widgets/block_1_widget.php:222 inc/widgets/block_2_widget.php:211
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:192
+msgid "Order By:"
+msgstr "Sorteren op:"
+
+#: inc/widgets/block_1_widget.php:219 inc/widgets/block_2_widget.php:208
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:189
+msgid "Ignore Sticky Posts"
+msgstr "Sticky berichten negeren"
+
+#: inc/widgets/block_1_widget.php:214 inc/widgets/block_2_widget.php:202
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:184
+msgid "Number of posts to show:"
+msgstr "AAntal berichten te tonen:"
+
+#: inc/widgets/block_1_widget.php:206 inc/widgets/block_2_widget.php:194
+#: inc/widgets/block_4_widget.php:176
+msgid "Multiselect Categories (all by default):"
+msgstr "Multiselecteren van categorieën (standaard allen):"
+
+#: inc/widgets/block_1_widget.php:197
+msgid "Posts block layout:"
+msgstr "Layout van berichtenblok:"
+
+#: inc/widgets/block_1_widget.php:193 inc/widgets/block_2_widget.php:189
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:171
+msgid "Widget Title:"
+msgstr "Widgettitel:"
+
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr "FT Block 1 - Recente berichten"
+
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr "Toon berichten in een lijst of raster op homepagina."
+
+#: inc/template-tags.php:161
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: inc/template-tags.php:156
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/template-tags.php:155
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:153
+msgid "%1$s"
+msgstr "%1$s "
+
+#: inc/template-tags.php:147
+msgid "Post author"
+msgstr "Bericht auteur"
+
+#: inc/template-tags.php:131
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#: inc/template-tags.php:131
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:102
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:95
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/template-tags.php:72
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#: inc/template-tags.php:67
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Gepost op %s"
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/extras.php:91
+msgid "Add a menu"
+msgstr "Menu toevoegen"
+
+#: inc/dashboard.php:51
+msgid "Theme Screenshot"
+msgstr "Thema schermafbeelding"
+
+#: inc/dashboard.php:43
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr "Ondersteuning voor het %s WordPress thema wordt geboden via het gratis WordPress support forum voor thema's."
+
+#: inc/dashboard.php:42
+msgid "Having Trouble, Need Support?"
+msgstr "Heb je problemen, heb je hulp nodig?"
+
+#: inc/dashboard.php:38
+msgid "Online Documentation"
+msgstr "Online documentatie"
+
+#: inc/dashboard.php:36
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Hulp nodig bij het instellen van %s? Kijk bij onze documentatie."
+
+#: inc/dashboard.php:35
+msgid "Theme Documentation"
+msgstr "Thema documentatie"
+
+#: inc/dashboard.php:31
+msgid "Start Customize"
+msgstr "Start de Customizer"
+
+#: inc/dashboard.php:29
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s ondersteunt de Thema Customizer voor alle thema-instellingen. Klik op \"Customize\" om je site aan te passen."
+
+#: inc/dashboard.php:28
+msgid "Theme Customizer"
+msgstr "Thema Customizer"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.7)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/dashboard.php:19
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.7)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/dashboard.php:18
+msgid "Codilight Lite is a news magazine style WordPress theme from FameThemes which is a perfect option to create any kind of magazine or blog websites."
+msgstr "Codilight Lite is een magazine WordPress thema van FameThemes. Het is de perfecte optie om een magazine of blog website mee te maken."
+
+#: inc/dashboard.php:17
+msgid "Welcome to %1s - Version %2s"
+msgstr "Welkom bij %1s - Versie %2s"
+
+#: inc/dashboard.php:9
+msgid "%s"
+msgstr "%s"
+
+#: inc/dashboard.php:9
+msgid "%s Theme Dashboard"
+msgstr "%s Thema dashboard"
+
+#: inc/customizer.php:99
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr "Categorie, tag, auteur, archiefpagina&hellip;"
+
+#: inc/customizer.php:92
+msgid "Archive Page Posts Layout"
+msgstr "Berichtenlayout van archiefpagina"
+
+#: inc/customizer.php:78
+msgid "Front Page Posts Layout"
+msgstr "Berichtenlayout van voorpagina"
+
+#: inc/customizer.php:64
+msgid "Default Sidebar Position"
+msgstr "Standaard positie van sidebar"
+
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Site-layout"
+
+#: inc/customizer.php:43
+msgid "Your site logo"
+msgstr "Je site-logo"
+
+#: inc/customizer.php:41
+msgid "Site Logo"
+msgstr "Site-logo"
+
+#: inc/customizer-controls.php:38
+msgid "Upgrade to <a href=\"#\">Codilight Premium</a> to be able to change the section order and styling!"
+msgstr "Upgrade naar <a href=\"#\">Codilight Premium</a> om de volgorde van de secties en de opmaak te wijzigen."
+
+#: header.php:42
+msgid "Search"
+msgstr "Zoeken"
+
+#: header.php:32
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:190
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:184
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:139
+msgid "Home 4"
+msgstr "Home 4"
+
+#: functions.php:130
+msgid "Home 3"
+msgstr "Home 3"
+
+#: functions.php:121
+msgid "Home 2"
+msgstr "Home 2"
+
+#: functions.php:112
+msgid "Home 1"
+msgstr "Home 1"
+
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr "Standaard sidebar"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: footer.php:34
+msgid "Codilight Theme by %1$s"
+msgstr "Codilight thema door %1$s"
+
+#: footer.php:32
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Auteursrecht &copy; %1$s %2$s. Alle rechten voorbehouden."
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 reactie"
+msgstr[1] "%1$s reacties"
+
+#: archive.php:57 archive.php:77 category.php:57 category.php:77 index.php:62
+#: index.php:82 search.php:43
+msgid "Page %1$s of %2$s"
+msgstr "Pagina %1$s van %2$s"
+
+#: archive.php:55 archive.php:75 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:41
+msgid "Page"
+msgstr "Pagina"
+
+#: 404.php:29
+msgid "Latest Posts"
+msgstr "Nieuwste berichten"
+
+#: 404.php:24
+msgid "Maybe try a search?"
+msgstr "Probeer eens een zoekopdracht."
+
+#: 404.php:19
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist. "
+msgstr "De pagina die je zoekt bestaat niet."
+
+#: 404.php:18
+msgid "Ooops&hellip; Error 404"
+msgstr "Oeps&hellip; Fout 404"
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.famethemes.com/themes/codilight-lite"
+msgstr "http://www.famethemes.com/themes/codilight-lite"

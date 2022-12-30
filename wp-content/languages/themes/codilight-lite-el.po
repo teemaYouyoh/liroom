@@ -1,0 +1,806 @@
+# Translation of Themes - Codilight Lite in Greek
+# This file is distributed under the same license as the Themes - Codilight Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-11 14:51:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Codilight Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Codilight Lite"
+msgstr "Codilight Lite"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Εγκατάσταση Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3518
+msgid "All installations have been completed."
+msgstr "Όλες οι εγκαταστάσεις έχουν ολοκληρωθεί."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s εγκαταστάθηκε σωστά."
+
+#: inc/tgm.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Η εγκατάσταση ξεκίνησε. Αυτή η διαδικασία μπορεί να διαρκέσει αρκετή ώρα σε ορισμένους κεντρικούς υπολογιστές, γι' αυτό παρακαλώ περιμένετε."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Εγκαθιστώντας και ενεργοποιώντας το Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Όλες οι εγκαταστάσεις και ενεργοποιήσεις ολοκληρώθηκαν."
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Hide Details"
+msgstr "Απόκρυψη λεπτομερειών"
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Show Details"
+msgstr "Λεπτομέρειες"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s εγκαταστάθηκε και ενεργοποιήθηκε επιτυχώς."
+
+#: inc/tgm.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Η εγκατάσταση και η ενεργοποίηση ξεκίνησε. Αυτή η διαδικασία μπορεί να διαρκέσει αρκετή ώρα σε ορισμένους κεντρικούς υπολογιστές, γι 'αυτό παρακαλώ να περιμένετε."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Η εγκατάσταση από %1$s απέτυχε."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Παρουσιάστηκε σφάλμα κατά την εγκατάσταση %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Αναβάθμιση προσθέτου %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3158
+msgid "Plugin activation failed."
+msgstr "Η ενεργοποίηση του Plugin απέτυχε."
+
+#: inc/tgm.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Κανένα πρόσθετο δεν είναι διαθέσιμο προς ενεργοποίηση αυτή τη στιγμή."
+
+#: inc/tgm.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Κανένα πρόσθετο δεν επιλέχθηκε προς ενεργοποίηση. Καμία ενέργεια δεν έγινε."
+
+#: inc/tgm.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Κανένα πρόσθετο δεν είναι διαθέσιμο προς ενημέρωση αυτή τη στιγμή."
+
+#: inc/tgm.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Κανένα πρόσθετο δεν είναι διαθέσιμο προς εγκατάσταση αυτή τη στιγμή."
+
+#: inc/tgm.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Κανένα πρόσθετο δεν επιλέχθηκε προς ενημέρωση. Καμία ενέργεια δεν έγινε."
+
+#: inc/tgm.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Κανένα πρόσθετο δεν επιλέχθηκε προς εγκατάσταση. Καμία ενέργεια δεν έγινε."
+
+#: inc/tgm.php:2726
+msgid "Activate"
+msgstr "Ενεργοποιήση"
+
+#: inc/tgm.php:2723
+msgid "Update"
+msgstr "Ανανέωση"
+
+#: inc/tgm.php:2717
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+#: inc/tgm.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Μήνυμα αναβάθμισης από το δημιουργό του πρόσθετου:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2614
+msgid "Activate %2$s"
+msgstr "Ενεργοποίηση %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2608
+msgid "Update %2$s"
+msgstr "Ενημέρωση %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2603
+msgid "Install %2$s"
+msgstr "Εγκατάσταση %2$s"
+
+#: inc/tgm.php:2554
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: inc/tgm.php:2553
+msgid "Version"
+msgstr "Έκδοση"
+
+#: inc/tgm.php:2549
+msgid "Type"
+msgstr "Τύπος"
+
+#: inc/tgm.php:2548
+msgid "Source"
+msgstr "Πηγή"
+
+#: inc/tgm.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Κανένα πρόσθετο δεν εγκαταστάθηκε, αναβαθμίστηκε ή ενεργοποιήθηκε."
+
+#: inc/tgm.php:2510
+msgid "Available version:"
+msgstr "Διαθέσιμη έκδοση:"
+
+#: inc/tgm.php:2498
+msgid "Minimum required version:"
+msgstr "Ελάχιστη απαιτούμενη έκδοση:"
+
+#: inc/tgm.php:2490
+msgid "Installed version:"
+msgstr "Εγκατεστημένη έκδοση:"
+
+#: inc/tgm.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "άγνωστο"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Ενεργοποίηση <span class=\"count\">(%s)</span>"
+msgstr[1] "Ενεργοποίηση <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Διαθέσιμη αναβάθμιση <span class=\"count\">(%s)</span>"
+msgstr[1] "Διαθέσιμη αναβάθμιση <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Εγκατάσταση <span class=\"count\">(%s)</span>"
+msgstr[1] "Εγκατάσταση <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Όλα <span class=\"count\">(%s)</span>"
+msgstr[1] "Όλα <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm.php:2333
+msgid "Update recommended"
+msgstr "Προτείνεται ενημέρωση"
+
+#: inc/tgm.php:2330
+msgid "Requires Update"
+msgstr "Απαιτεί ενημέρωση"
+
+#: inc/tgm.php:2327
+msgid "Required Update not Available"
+msgstr "Η Απαιτούμενη ενημέρωση δεν είναι διαθέσιμη"
+
+#: inc/tgm.php:2321
+msgid "Active"
+msgstr "Ενεργά"
+
+#: inc/tgm.php:2319
+msgid "Installed But Not Activated"
+msgstr "Εγκαταστάθηκε, αλλά δεν ενεργοποιήθηκε"
+
+#: inc/tgm.php:2315
+msgid "Not Installed"
+msgstr "Μη εγκατεστημένο"
+
+#: inc/tgm.php:2298
+msgid "Pre-Packaged"
+msgstr "Προσυσκευασμένα"
+
+#: inc/tgm.php:2295
+msgid "External Source"
+msgstr "Εξωτερική πηγή"
+
+#: inc/tgm.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress αποθήκευση"
+
+#: inc/tgm.php:2276
+msgid "Recommended"
+msgstr "Προτείνεται"
+
+#: inc/tgm.php:2273
+msgid "Required"
+msgstr "Απαιτείται"
+
+#. translators: %s: version number
+#: inc/tgm.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm.php:1121 inc/tgm.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "και"
+
+#: inc/tgm.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Το απομακρυσμένο πακέτο πρόσθετων αποτελείται από περισσότερα από ένα αρχεία, αλλά τα αρχεία δεν εμπεριέχονται σε φάκελο."
+
+#: inc/tgm.php:934 inc/tgm.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Παρακαλώ επικοινωνήστε με τον πάροχο του πρόσθετου και ζητήστε του να πακετάρει το πρόσθετο σύμφωνα με τις οδηγίες του WordPress."
+
+#: inc/tgm.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Το απομακρυσμένο πακέτο πρόσθετων δεν περιέχει φάκελο με το επιθυμητό σύντομο όνομα και η μετονομασία δεν επετεύχθη."
+
+#: inc/tgm.php:523
+msgid "Update Required"
+msgstr "Απαιτείται ενημέρωση"
+
+#: inc/tgm.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Αυτό το πρόσθετο πρέπει να ενημερωθεί ώστε να είναι συμβατό με το θέμα σας."
+
+#: inc/tgm.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Παρακαλούμε επικοινωνήστε με το διαχειριστή του ιστοτόπου για βοήθεια."
+
+#: inc/tgm.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Υπάρχουν ένα ή περισσότερα απαιτούμενα ή προτεινόμενα Πρόσθετα προς εγκατάσταση, ενημέρωση ή ενεργοποίηση."
+
+#: inc/tgm.php:395
+msgid "Dismiss this notice"
+msgstr "Απόρριψη σημειώματος"
+
+#. translators: 1: dashboard link.
+#: inc/tgm.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Όλα τα Plugins εγκαταστάθηκαν και ενεργοποιήθηκαν με επιτυχία. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Το πρόσθετο δεν ενεργοποιήθηκε. Απαιτείται νεότερη έκδοση του %s για αυτό το θέμα. Παρακαλώ ενημερώστε το πρόσθετο."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Δεν εκτελέστηκε καμία ενέργεια. Το πρόσθετο %1$s ήταν ήδη ενεργό."
+
+#: inc/tgm.php:388 inc/tgm.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Το παρακάτω Plugin ενεργοποιήθηκε σωστά:"
+
+#: inc/tgm.php:387 inc/tgm.php:3159
+msgid "Plugin activated successfully."
+msgstr "Το Plugin ενεργοποιήθηκε σωστά."
+
+#: inc/tgm.php:386 inc/tgm.php:827 inc/tgm.php:2533 inc/tgm.php:3580
+msgid "Return to the Dashboard"
+msgstr "Επιστρέψτε στον πίνακα ελέγχου"
+
+#: inc/tgm.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Επέστρεψε στα απαραίτητα για εγκατάσταση  Plugins"
+
+#: inc/tgm.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Ενεργοποίηση πρόσθετου"
+msgstr[1] "Ενεργοποίηση πρόσθετων"
+
+#: inc/tgm.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Ενημέρωση πρόσθετου"
+msgstr[1] "Ενημέρωση πρόσθετων"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Έναρξη εγκατάστασης πρόσθετου"
+msgstr[1] "Έναρξη εγκατάστασης πρόσθετων"
+
+#: inc/tgm.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Κάτι πήγε λάθος με το Plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:332
+msgid "Updating Plugin: %s"
+msgstr "Ενημέρωση πρόσθετου: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:330
+msgid "Installing Plugin: %s"
+msgstr "Εγκατάσταση προσθέτου: %s"
+
+#: inc/tgm.php:328
+msgid "Install Plugins"
+msgstr "Εγκατάσταση προσθέτων"
+
+#: inc/tgm.php:327
+msgid "Install Required Plugins"
+msgstr "Εγκαταστήστε τα απαιτούμενα Plugins"
+
+#: inc/dashboard.php:114
+msgid "FameThemes Demo Importer"
+msgstr "Εισαγωγέας επίδειξης FameThemes"
+
+#: inc/dashboard.php:112
+msgid "Hey, you will need to install and activate the %1$s plugin first."
+msgstr "Γεια, θα πρέπει πρώτα να εγκαταστήσετε και να ενεργοποιήσετε το πρόσθετο %1$s."
+
+#: inc/dashboard.php:99
+msgid "Active Now"
+msgstr "Ενεργό"
+
+#: inc/dashboard.php:78
+msgid "Install Now"
+msgstr "Εγκατάσταση τώρα"
+
+#: inc/dashboard.php:55
+msgid "Go To %s Support Forum"
+msgstr "Μετάβαση στο %s Φόρουμ υποστήριξης"
+
+#: inc/dashboard.php:30
+msgid "One Click Demo Import"
+msgstr "Εισαγωγή One Click Demo"
+
+#: inc/customizer.php:111
+msgid "Check out <a target=\"_blank\" href=\"https://www.famethemes.com/themes/codilight-lite?utm_source=codilight_lite_customizer&utm_medium=text_link&utm_campaign=codilight_lite#compare\">Codilight Premium</a> version for full control over site color styling!"
+msgstr "Δείτε την έκδοση <a target=\"_blank\" href=\"https://www.famethemes.com/themes/codilight-lite?utm_source=codilight_lite_customizer&utm_medium=text_link&utm_campaign=codilight_lite#compare\">Codilight Premium</a> για πλήρη έλεγχο των χρωμάτων του ιστοτόπου σας!"
+
+#: inc/customizer.php:83 inc/customizer.php:97
+msgid "Grid"
+msgstr "Διάταξη πλέγματος"
+
+#: inc/customizer.php:82 inc/customizer.php:96
+msgid "List"
+msgstr "Λίστα"
+
+#: inc/customizer.php:69
+msgid "Right Sidebar"
+msgstr "Δεξιά πλευρική στήλη"
+
+#: inc/customizer.php:68
+msgid "Left Sidebar"
+msgstr "Αριστερή πλευρική στήλη"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Αρχική σελίδα"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Πλήρες πλάτος"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια ανάγνωσης %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:51
+msgid "Next article"
+msgstr "Επόμενο άρθρο"
+
+#: template-parts/content-single.php:45
+msgid "Previous article"
+msgstr "Προηγούμενο άρθρο"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "Επεξεργασία του %s"
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:28
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Δεν βρέθηκε αυτό που αναζητήσατε. Ίσως η αναζήτηση μπορεί να σας βοηθήσει."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, δεν βρέθηκε κάτι που να ταιριάζει στα κριτήρια αναζήτησης. Παρακαλούμε προσπαθήστε με διαφορετικούς όρους αναζήτησης."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; <a href=\"%1$s\">Ξεκινήστε εδώ</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Δεν βρέθηκε"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Αποτέλεσμα αναζήτησης για: %s"
+
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr "FT περιοχή 4"
+
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr "Προβολή λίστας δημοφιλέστερων/πιο πρόσφατων άρθρων για χρήση σε πλευρική στήλη."
+
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr "Περιοχή κατηγορίας:"
+
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr "FT περιοχή 3"
+
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category."
+msgstr "Εμφάνιση λίστας άρθρων βάσει μιας μητρικής κατηγορίας"
+
+#: inc/widgets/block_2_widget.php:204
+msgid "This widget only show posts has featured image."
+msgstr "Αυτή η μικροεφαρμογή εμφανίζει μόνο άρθρα που έχουν επιλεγμένη εικόνα."
+
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr "FT περιοχή 2 - Slider"
+
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr "Μικροεφαρμογή slider άρθρων για χρήση στην αρχική σελίδα."
+
+#: inc/widgets/block_1_widget.php:222 inc/widgets/block_2_widget.php:211
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:192
+msgid "Order By:"
+msgstr "Ταξινόμηση κατά:"
+
+#: inc/widgets/block_1_widget.php:219 inc/widgets/block_2_widget.php:208
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:189
+msgid "Ignore Sticky Posts"
+msgstr "Αγνόηση των καρφιτσωμένων άρθρων"
+
+#: inc/widgets/block_1_widget.php:214 inc/widgets/block_2_widget.php:202
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:184
+msgid "Number of posts to show:"
+msgstr "Αριθμός άρθρων προς προβολή:"
+
+#: inc/widgets/block_1_widget.php:206 inc/widgets/block_2_widget.php:194
+#: inc/widgets/block_4_widget.php:176
+msgid "Multiselect Categories (all by default):"
+msgstr "Πολλαπλή επιλογή κατηγορίων (εξ' ορισμού όλες):"
+
+#: inc/widgets/block_1_widget.php:197
+msgid "Posts block layout:"
+msgstr "Διάταξη θέσεων άρθρων:"
+
+#: inc/widgets/block_1_widget.php:193 inc/widgets/block_2_widget.php:189
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:171
+msgid "Widget Title:"
+msgstr "Τίτλος μικροεφαρμογής:"
+
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr "FT περιοχή 1 - Πρόσφατα άρθρα"
+
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr "Προβολή άρθρων με λίστες ή στυλ πλέγματος για χρήση στην αρχική σελίδα."
+
+#: inc/template-tags.php:161
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας περιμένει έγκριση."
+
+#: inc/template-tags.php:156
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: inc/template-tags.php:155
+msgid "Reply"
+msgstr "Απάντηση"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:153
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:147
+msgid "Post author"
+msgstr "Συντάκτης άρθρου"
+
+#: inc/template-tags.php:131
+msgid "(Edit)"
+msgstr "(Επεξεργασία)"
+
+#: inc/template-tags.php:131
+msgid "Pingback:"
+msgstr "Παράθεση:"
+
+#: inc/template-tags.php:102
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: inc/template-tags.php:95
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: inc/template-tags.php:72
+msgctxt "post author"
+msgid "by %s"
+msgstr "από %s"
+
+#: inc/template-tags.php:67
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Δημοσιεύτηκε στις %s"
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/extras.php:91
+msgid "Add a menu"
+msgstr "Προσθήκη μενού"
+
+#: inc/dashboard.php:61
+msgid "Theme Screenshot"
+msgstr "Στιγμιότυπο θέματος"
+
+#: inc/dashboard.php:53
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr "Η υποστήριξη για το θέμα %s WordPress γίνεται μέσω του δωρεάν φόρουμ υποστήριξης θεμάτων WordPress."
+
+#: inc/dashboard.php:52
+msgid "Having Trouble, Need Support?"
+msgstr "Αντιμετωπίζετε πρόβλημα, χρειάζεστε υποστήριξη;"
+
+#: inc/dashboard.php:48
+msgid "Online Documentation"
+msgstr "Online Τεκμηρίωση"
+
+#: inc/dashboard.php:46
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Χρειάζεστε βοήθεια για να ρυθμίσετε και να διαμορφώσετε το%s; Παρακαλώ ρίξτε μια ματιά στις οδηγίες τεκμηρίωσης μας."
+
+#: inc/dashboard.php:45
+msgid "Theme Documentation"
+msgstr "Τεκμηρίωση θέματος"
+
+#: inc/dashboard.php:41
+msgid "Start Customize"
+msgstr "Ξεκινήστε την Προσαρμογή"
+
+#: inc/dashboard.php:39
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "Το%s υποστηρίζει το Theme Customizer για όλες τις ρυθμίσεις θέματος. Κάντε κλικ στην επιλογή \"Προσαρμογή\" για να ξεκινήσετε την προσαρμογή του ιστότοπού σας."
+
+#: inc/dashboard.php:38
+msgid "Theme Customizer"
+msgstr "Προσαρμογέας θέματος"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.8)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/dashboard.php:27
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.8)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/dashboard.php:26
+msgid "Codilight Lite is a news magazine style WordPress theme from FameThemes which is a perfect option to create any kind of magazine or blog websites."
+msgstr "Το Codilight Lite είναι ένα θέμα WordPress με στυλ περιοδικό ειδήσεων από την FameThemes. Έιναι μια τέλεια επιλογή για να δημιουργήσετε ιστοτόπους περιοδικών ή ιστολόγιο."
+
+#: inc/dashboard.php:25
+msgid "Welcome to %1s - Version %2s"
+msgstr "Καλώς ορίσατε στο% 1s - Έκδοση% 2s"
+
+#: inc/dashboard.php:9
+msgid "%s"
+msgstr "%s"
+
+#: inc/dashboard.php:9
+msgid "%s Theme Dashboard"
+msgstr "%s Πίνακας ελέγχου θέματος"
+
+#: inc/customizer.php:99
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr "Κατηγορία, ετικέτα, συγγραφέας, σελίδα αρχειοθέτησης &hellip;"
+
+#: inc/customizer.php:92
+msgid "Archive Page Posts Layout"
+msgstr "Διάταξη άρθρων σελίδας αρχείων"
+
+#: inc/customizer.php:78
+msgid "Front Page Posts Layout"
+msgstr "Διάταξη άρθρων αρχικής σελίδας"
+
+#: inc/customizer.php:64
+msgid "Default Sidebar Position"
+msgstr "Θέση προεπιλεγμένης πλευρικής στήλης"
+
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Διάταξη ιστοτόπου"
+
+#: inc/customizer.php:43
+msgid "Your site logo"
+msgstr "Το λογότυπο του ιστότοπού σας"
+
+#: inc/customizer.php:41
+msgid "Site Logo"
+msgstr "Λογότυπο ιστότοπου"
+
+#: inc/customizer-controls.php:38
+msgid "Upgrade to <a href=\"#\">Codilight Premium</a> to be able to change the section order and styling!"
+msgstr "Αναβαθμίστε στο <a href=\"#\">Codilight Premium</a> για να μπορέσετε να αλλάξετε την σειρά και το στυλ του τμήματος!"
+
+#: header.php:42
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: header.php:32
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:190
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "ενεργοποιημένο"
+
+#. Translators: If there are characters in your language that are not supported
+#. by merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:184
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ενεργοποιημένο"
+
+#: functions.php:139
+msgid "Home 4"
+msgstr "Αρχική Σελίδα 4"
+
+#: functions.php:130
+msgid "Home 3"
+msgstr "Αρχική σελίδα 3"
+
+#: functions.php:121
+msgid "Home 2"
+msgstr "Αρχική σελίδα 2"
+
+#: functions.php:112
+msgid "Home 1"
+msgstr "Αρχική σελίδα 1"
+
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr "Προεπιλεγμένη πλευρική στήλη"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Κύριο Μενού"
+
+#: footer.php:34
+msgid "Codilight Theme by %1$s"
+msgstr "Θέμα Codilight από%1$s"
+
+#: footer.php:32
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Πνευματικά δικαιώματα  &copy; %1$s %2$s. Όλα τα δικαιώματα κατοχυρωμένα."
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειστά."
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr "Παλαιότερα σχόλια"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 σχόλιο"
+msgstr[1] "%1$s σχόλια"
+
+#: archive.php:57 archive.php:77 category.php:57 category.php:77 index.php:62
+#: index.php:82 search.php:43
+msgid "Page %1$s of %2$s"
+msgstr "Σελίδα %1$s από %2$s"
+
+#: archive.php:55 archive.php:75 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:41
+msgid "Page"
+msgstr "Σελίδα"
+
+#: 404.php:29
+msgid "Latest Posts"
+msgstr "Πρόσφατα άρθρα"
+
+#: 404.php:24
+msgid "Maybe try a search?"
+msgstr "Ίσως να δοκιμάσετε μια αναζήτηση;"
+
+#: 404.php:19
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist. "
+msgstr "Λυπούμαστε, αλλά η σελίδα που ψάχνετε δεν υπάρχει "
+
+#: 404.php:18
+msgid "Ooops&hellip; Error 404"
+msgstr "Ooops ... Σφάλμα 404"
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.famethemes.com/themes/codilight-lite"
+msgstr "http://www.famethemes.com/themes/codilight-lite"

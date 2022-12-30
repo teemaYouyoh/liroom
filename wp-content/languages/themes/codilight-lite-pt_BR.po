@@ -1,0 +1,806 @@
+# Translation of Themes - Codilight Lite in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Codilight Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 14:28:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Codilight Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Codilight Lite"
+msgstr "Codilight Lite"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3518
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram completadas."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalou com sucesso."
+
+#: inc/tgm.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação está começando. Este processo pode leva algum tempo em alguns servidores, seja paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e aticando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram completadas."
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Hide Details"
+msgstr "Esconder detalhes"
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: inc/tgm.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "A instalação e ativação está começando. Este processo pode leva algum tempo em alguns servidores, seja paciente."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3503
+msgid "The installation of %1$s failed."
+msgstr "A instalação %1$s falhou."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualização do plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3158
+msgid "Plugin activation failed."
+msgstr "A ativação do plugin falhou."
+
+#: inc/tgm.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Nenhum plugin está disponível para ser ativado."
+
+#: inc/tgm.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser ativado. Nenhuma ação tomada."
+
+#: inc/tgm.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Nenhum plugin está disponível para ser atualizado."
+
+#: inc/tgm.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Nenhum plugin está disponível para ser instalado."
+
+#: inc/tgm.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser atualizado. Nenhuma ação tomada."
+
+#: inc/tgm.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plugin foi selecionado para ser instalado. Nenhuma ação tomada."
+
+#: inc/tgm.php:2726
+msgid "Activate"
+msgstr "Ativar"
+
+#: inc/tgm.php:2723
+msgid "Update"
+msgstr "Atualizar"
+
+#: inc/tgm.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgm.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensagem de atualização do autor do plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2614
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2608
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgm.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/tgm.php:2553
+msgid "Version"
+msgstr "Versão"
+
+#: inc/tgm.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm.php:2548
+msgid "Source"
+msgstr "Fonte"
+
+#: inc/tgm.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Nenhum plugin para instalar, atualizar ou ativar."
+
+#: inc/tgm.php:2510
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: inc/tgm.php:2498
+msgid "Minimum required version:"
+msgstr "Versão mínima exigida:"
+
+#: inc/tgm.php:2490
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#: inc/tgm.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconhecido"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para ativar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para ativar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualizações disponíveis <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tudo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm.php:2333
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#: inc/tgm.php:2330
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+#: inc/tgm.php:2327
+msgid "Required Update not Available"
+msgstr "A atualização necessária não está disponível"
+
+#: inc/tgm.php:2321
+msgid "Active"
+msgstr "Ativar"
+
+#: inc/tgm.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: inc/tgm.php:2315
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: inc/tgm.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-embalado"
+
+#: inc/tgm.php:2295
+msgid "External Source"
+msgstr "Fonte external"
+
+#: inc/tgm.php:2292
+msgid "WordPress Repository"
+msgstr "Repositório WordPress"
+
+#: inc/tgm.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgm.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#. translators: %s: version number
+#: inc/tgm.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm.php:1121 inc/tgm.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: inc/tgm.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote do plugin consiste em um ou mais arquivos mas esses arquivos não estão em uma pasta"
+
+#: inc/tgm.php:934 inc/tgm.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Contate o distribuidor do plugin e peça para que crie um pacote de acordo com as diretrizes do WordPress."
+
+#: inc/tgm.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote do plugin não contém uma pasta com o slug desejado e renomear não funcionou."
+
+#: inc/tgm.php:523
+msgid "Update Required"
+msgstr "Envio necessário"
+
+#: inc/tgm.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "O plugin precisa ser atualizado para ser compatível com seu tema."
+
+#: inc/tgm.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Contate o administrador deste site para obter ajuda."
+
+#: inc/tgm.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Há um ou mais plugins necessários ou recomendados para instalar, atualizar ou ativar."
+
+#: inc/tgm.php:395
+msgid "Dismiss this notice"
+msgstr "Dispensar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgm.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins instalados e ativados com sucesso. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "O plugin não foi ativado. É preciso instalar uma versão mais moderna de %s. Atualize o plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação foi tomada. O plugin %1$s já foi ativado."
+
+#: inc/tgm.php:388 inc/tgm.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "O seguinte plugin foi ativado com sucesso:"
+
+#: inc/tgm.php:387 inc/tgm.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: inc/tgm.php:386 inc/tgm.php:827 inc/tgm.php:2533 inc/tgm.php:3580
+msgid "Return to the Dashboard"
+msgstr "Voltar para o Painel"
+
+#: inc/tgm.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para o instalados de plugins necessários"
+
+#: inc/tgm.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Começar a ativação de plugin"
+msgstr[1] "Começar a ativação dos plugins"
+
+#: inc/tgm.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Começar a atualização de plugin"
+msgstr[1] "Começar a atualização dos plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Começar a instalação de plugin"
+msgstr[1] "Começar a instalação dos plugins"
+
+#: inc/tgm.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo de errado com a API do plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:332
+msgid "Updating Plugin: %s"
+msgstr "Atualizando o plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando o plugin: %s"
+
+#: inc/tgm.php:328
+msgid "Install Plugins"
+msgstr "Instalando plugins"
+
+#: inc/tgm.php:327
+msgid "Install Required Plugins"
+msgstr "Instale os plugins necessários"
+
+#: inc/dashboard.php:114
+msgid "FameThemes Demo Importer"
+msgstr "Importador do FameThemes"
+
+#: inc/dashboard.php:112
+msgid "Hey, you will need to install and activate the %1$s plugin first."
+msgstr "Ei, você precis ativar o plugin %1$s."
+
+#: inc/dashboard.php:99
+msgid "Active Now"
+msgstr "Ativar agora"
+
+#: inc/dashboard.php:78
+msgid "Install Now"
+msgstr "Instalar agora"
+
+#: inc/dashboard.php:55
+msgid "Go To %s Support Forum"
+msgstr "Ir para o Fórum de suporte do %s"
+
+#: inc/dashboard.php:30
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/customizer.php:111
+msgid "Check out <a target=\"_blank\" href=\"https://www.famethemes.com/themes/codilight-lite?utm_source=codilight_lite_customizer&utm_medium=text_link&utm_campaign=codilight_lite#compare\">Codilight Premium</a> version for full control over site color styling!"
+msgstr "Confira a versão <a target=\"_blank\" href=\"https://www.famethemes.com/themes/codilight-lite?utm_source=codilight_lite_customizer&utm_medium=text_link&utm_campaign=codilight_lite#compare\">Codilight Premium</a> para total controle de cores e estilos!"
+
+#: inc/customizer.php:83 inc/customizer.php:97
+msgid "Grid"
+msgstr "Grade"
+
+#: inc/customizer.php:82 inc/customizer.php:96
+msgid "List"
+msgstr "Lista"
+
+#: inc/customizer.php:69
+msgid "Right Sidebar"
+msgstr "Lateral direita"
+
+#: inc/customizer.php:68
+msgid "Left Sidebar"
+msgstr "Lateral esquerda"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Página inicial"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Largura total"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:51
+msgid "Next article"
+msgstr "Artigo seguinte"
+
+#: template-parts/content-single.php:45
+msgid "Previous article"
+msgstr "Artigo anterior"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:28
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Páginas"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não pudemos encontrar o que você está procurando. Talvez uma busca ajude."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr "Bloco 4"
+
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr "Mostra uma lista de posts mais populares/recentes para usar a lateral."
+
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr "Categoria do bloco:"
+
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr "FT Block 3"
+
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category."
+msgstr "Exibe uma lista de posts baseados em uma categoria ascendente."
+
+#: inc/widgets/block_2_widget.php:204
+msgid "This widget only show posts has featured image."
+msgstr "Este widget mostra apenas posts que têm a imagem de destaque."
+
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr "FT Block 2 - Slider"
+
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr "Widget de slider de posts para usar na página inicial."
+
+#: inc/widgets/block_1_widget.php:222 inc/widgets/block_2_widget.php:211
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:192
+msgid "Order By:"
+msgstr "Ordenar por:"
+
+#: inc/widgets/block_1_widget.php:219 inc/widgets/block_2_widget.php:208
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:189
+msgid "Ignore Sticky Posts"
+msgstr "Ignorar posts afixados"
+
+#: inc/widgets/block_1_widget.php:214 inc/widgets/block_2_widget.php:202
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:184
+msgid "Number of posts to show:"
+msgstr "Número de posts para mostrar:"
+
+#: inc/widgets/block_1_widget.php:206 inc/widgets/block_2_widget.php:194
+#: inc/widgets/block_4_widget.php:176
+msgid "Multiselect Categories (all by default):"
+msgstr "Multi-selecionar categorias (tudo por padrão):"
+
+#: inc/widgets/block_1_widget.php:197
+msgid "Posts block layout:"
+msgstr "Layout do bloco de posts:"
+
+#: inc/widgets/block_1_widget.php:193 inc/widgets/block_2_widget.php:189
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:171
+msgid "Widget Title:"
+msgstr "Titulo do widget:"
+
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr "FT Block 1 - Posts recentes"
+
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr "Mostrar posts no estilo de lista ou grade para usar na página inicial."
+
+#: inc/template-tags.php:161
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação"
+
+#: inc/template-tags.php:156
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:155
+msgid "Reply"
+msgstr "Responder"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:153
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:147
+msgid "Post author"
+msgstr "Autor do post"
+
+#: inc/template-tags.php:131
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:131
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:102
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:95
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc/template-tags.php:72
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:67
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/extras.php:91
+msgid "Add a menu"
+msgstr "Adicionar um menu"
+
+#: inc/dashboard.php:61
+msgid "Theme Screenshot"
+msgstr "Imagem do tema"
+
+#: inc/dashboard.php:53
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr "O suporte para o tema %s é conduzido no fórum de suporte gratuito do WordPress.org."
+
+#: inc/dashboard.php:52
+msgid "Having Trouble, Need Support?"
+msgstr "Ainda com problemas, precisa de ajuda?"
+
+#: inc/dashboard.php:48
+msgid "Online Documentation"
+msgstr "Documentação"
+
+#: inc/dashboard.php:46
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Precisa de ajuda configurar o %s? Dê uma olhada nas nossas instruções de documentação."
+
+#: inc/dashboard.php:45
+msgid "Theme Documentation"
+msgstr "Documentação do tema"
+
+#: inc/dashboard.php:41
+msgid "Start Customize"
+msgstr "Comece a personalizar"
+
+#: inc/dashboard.php:39
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s suporta o personalizar de Tema para todas as configurações de tema. Clique em \"Personalizar\" para começar a personalizar seu site."
+
+#: inc/dashboard.php:38
+msgid "Theme Customizer"
+msgstr "Customizador do Tema"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.8)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/dashboard.php:27
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.8)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/dashboard.php:26
+msgid "Codilight Lite is a news magazine style WordPress theme from FameThemes which is a perfect option to create any kind of magazine or blog websites."
+msgstr "Codilight Lite é um novo tema WordPress do tipo magazine da FameThemes, a opção perfeita para criar qualquer tipo de site magazine ou blog."
+
+#: inc/dashboard.php:25
+msgid "Welcome to %1s - Version %2s"
+msgstr "Bem-vindo ao %1s - versão %2s"
+
+#: inc/dashboard.php:9
+msgid "%s"
+msgstr "%s"
+
+#: inc/dashboard.php:9
+msgid "%s Theme Dashboard"
+msgstr "Painel do tema %s"
+
+#: inc/customizer.php:99
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr "Categoria, Tag, Autor, Página de arquivo&hellip;"
+
+#: inc/customizer.php:92
+msgid "Archive Page Posts Layout"
+msgstr "Layout das páginas de arquivo"
+
+#: inc/customizer.php:78
+msgid "Front Page Posts Layout"
+msgstr "Layout dos posts na página inicial"
+
+#: inc/customizer.php:64
+msgid "Default Sidebar Position"
+msgstr "Posição padrão da lateral"
+
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Layout do Site"
+
+#: inc/customizer.php:43
+msgid "Your site logo"
+msgstr "O logo do seu site"
+
+#: inc/customizer.php:41
+msgid "Site Logo"
+msgstr "Logo do site"
+
+#: inc/customizer-controls.php:38
+msgid "Upgrade to <a href=\"#\">Codilight Premium</a> to be able to change the section order and styling!"
+msgstr "Atualize para <a href=\"#\">Codilight Premium</a> para ser capaz de mudar a ordem e os estilos da seção!"
+
+#: header.php:42
+msgid "Search"
+msgstr "Pesquisa"
+
+#: header.php:32
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:190
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "ligada"
+
+#. Translators: If there are characters in your language that are not supported
+#. by merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:184
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ligado"
+
+#: functions.php:139
+msgid "Home 4"
+msgstr "Home 4"
+
+#: functions.php:130
+msgid "Home 3"
+msgstr "Home 3"
+
+#: functions.php:121
+msgid "Home 2"
+msgstr "Home 2"
+
+#: functions.php:112
+msgid "Home 1"
+msgstr "Home 1"
+
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr "Lateral padrão"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Menu do rodapé"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:34
+msgid "Codilight Theme by %1$s"
+msgstr "Tema Codilight por %1$s"
+
+#: footer.php:32
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Todos os direitos reservados."
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Navegação dos comentários"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 comentário"
+msgstr[1] "%1$s comentários"
+
+#: archive.php:57 archive.php:77 category.php:57 category.php:77 index.php:62
+#: index.php:82 search.php:43
+msgid "Page %1$s of %2$s"
+msgstr "Página %1$s de %2$s"
+
+#: archive.php:55 archive.php:75 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:41
+msgid "Page"
+msgstr "Página"
+
+#: 404.php:29
+msgid "Latest Posts"
+msgstr "Publicações recentes"
+
+#: 404.php:24
+msgid "Maybe try a search?"
+msgstr "Talvez tentar uma pesquisa?"
+
+#: 404.php:19
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist. "
+msgstr "Desculpe mas a página que está procurando não existe."
+
+#: 404.php:18
+msgid "Ooops&hellip; Error 404"
+msgstr "Opa&hellip; Erro 404"
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.famethemes.com/themes/codilight-lite"
+msgstr "http://www.famethemes.com/themes/codilight-lite"

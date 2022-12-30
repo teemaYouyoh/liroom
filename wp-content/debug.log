@@ -1,0 +1,26 @@
+[21-Jul-2018 21:39:08 UTC] Array
+(
+    [id] => 468817892
+    [readable] => 1
+    [title] => I Want to Fly
+    [title_short] => I Want to Fly
+    [title_version] => 
+    [isrc] => UAJU11800002
+    [link] => https://www.deezer.com/track/468817892
+    [duration] => 158
+    [track_position] => 1
+    [disk_number] => 1
+    [rank] => 2146
+    [explicit_lyrics] => 
+    [preview] => https://cdns-preview-6.dzcdn.net/stream/c-646f2509cd06fdfb228d35502290297e-8.mp3
+    [artist] => Array
+        (
+            [id] => 5540710
+            [name] => Julinoza
+            [tracklist] => https://api.deezer.com/artist/5540710/top?limit=50
+            [type] => artist
+        )
+
+    [type] => track
+)
+

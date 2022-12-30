@@ -1,0 +1,411 @@
+# Translation of Themes - Codilight Lite in Russian
+# This file is distributed under the same license as the Themes - Codilight Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-16 18:53:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Codilight Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Codilight Lite"
+msgstr "Codilight Lite"
+
+#: archive.php:55 archive.php:75 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:41
+msgid "Page"
+msgstr "Страница"
+
+#: header.php:32
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/customizer.php:41
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: header.php:42
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/dashboard.php:35
+msgid "Theme Documentation"
+msgstr "Документация"
+
+#: inc/extras.php:91
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: inc/template-tags.php:95
+msgid "Categories"
+msgstr "Категории"
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:28
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: inc/template-tags.php:155
+msgid "Reply"
+msgstr "Ответить"
+
+#: inc/dashboard.php:42
+msgid "Having Trouble, Need Support?"
+msgstr "Есть проблемы, требуется помощь?"
+
+#: inc/customizer.php:43
+msgid "Your site logo"
+msgstr "Ваш логотип сайта"
+
+#: archive.php:57 archive.php:77 category.php:57 category.php:77 index.php:62
+#: index.php:82 search.php:43
+msgid "Page %1$s of %2$s"
+msgstr "Страница %1$s из %2$s"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "комментарий"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr "Более старые комментарии"
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr "Более новые комментарии"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: footer.php:32
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Все права защищены."
+
+#: footer.php:34
+msgid "Codilight Theme by %1$s"
+msgstr "Тема Codilight от %1$s"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: 404.php:29
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: 404.php:19
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist. "
+msgstr "К сожалению, такой страницы не существует."
+
+#: 404.php:24
+msgid "Maybe try a search?"
+msgstr "Не хотите ли воспользоваться поиском?"
+
+#: 404.php:18
+msgid "Ooops&hellip; Error 404"
+msgstr "Упс :) &hellip; Error 404"
+
+#: inc/customizer-controls.php:38
+msgid "Upgrade to <a href=\"#\">Codilight Premium</a> to be able to change the section order and styling!"
+msgstr "Обновите до <a href=\"#\">Codilight Premium</a> чтобы изменить структуру раздела и стили!"
+
+#: inc/dashboard.php:38
+msgid "Online Documentation"
+msgstr "Документация Онлайн"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.7)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/dashboard.php:19
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#: inc/template-tags.php:67
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr " Опубликовано %s"
+
+#: inc/template-tags.php:72
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/dashboard.php:51
+msgid "Theme Screenshot"
+msgstr "Скриншот"
+
+#: inc/dashboard.php:43
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr "Поддержка WordPress темы %s осуществляется через форум поддержки данной WordPress темы."
+
+#: inc/template-tags.php:156
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/widgets/block_1_widget.php:222 inc/widgets/block_2_widget.php:211
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:192
+msgid "Order By:"
+msgstr "Сортировать по:"
+
+#: inc/widgets/block_1_widget.php:214 inc/widgets/block_2_widget.php:202
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:184
+msgid "Number of posts to show:"
+msgstr "Количество отображаемых записей:"
+
+#: inc/widgets/block_1_widget.php:219 inc/widgets/block_2_widget.php:208
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:189
+msgid "Ignore Sticky Posts"
+msgstr "Игнорировать Закрепленные Записи"
+
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category"
+msgstr "Вывести список записей из одной категории"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Результаты поиска по запросу: %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начать</a>."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, ничего не найдено. Попробуйте использовать другие ключевые слова для поиска."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, нам не удается найти то, что Вы ищете. Воспользуйтесь Поиском."
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: template-parts/content-single.php:45
+msgid "Previous article"
+msgstr "Предыдущая заметка"
+
+#: template-parts/content-single.php:51
+msgid "Next article"
+msgstr "Следующая заметка"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжение %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Во всю ширину"
+
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr "Отображать записи списком или таблицей на главной странице."
+
+#: inc/template-tags.php:147
+msgid "Post author"
+msgstr "Автор"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:153
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:131
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/dashboard.php:17
+msgid "Welcome to %1s - Version %2s"
+msgstr "Добро пожаловать! Тема %1s - Версия %2s"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.7)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/dashboard.php:18
+msgid "Codilight Lite is a news magazine style WordPress theme from FameThemes which is a perfect option to create any kind of magazine or blog websites."
+msgstr "Codilight Lite новая тема от FameThemes в стиле журнала, идеально подходит для создания любого журнала или блога."
+
+#: inc/dashboard.php:36
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Нужна помощь в настройке %s? Ознакомьтесь с документацией."
+
+#: functions.php:112
+msgid "Home 1"
+msgstr "Главная 1"
+
+#: functions.php:121
+msgid "Home 2"
+msgstr "Главная 2"
+
+#: functions.php:130
+msgid "Home 3"
+msgstr "Главная 3"
+
+#: functions.php:139
+msgid "Home 4"
+msgstr "Главная 4"
+
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr "Боковая панель по умолчанию"
+
+#: inc/customizer.php:64
+msgid "Default Sidebar Position"
+msgstr "Позиция боковой панели по умолчанию"
+
+#: inc/dashboard.php:9
+msgid "%s"
+msgstr "%s"
+
+#: inc/dashboard.php:28
+msgid "Theme Customizer"
+msgstr "Настройка темы"
+
+#: inc/dashboard.php:29
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s поддерживает настройку всех компонентов темы. Нажмите \"Настройка\" для настройки Вашего сайта."
+
+#: inc/dashboard.php:31
+msgid "Start Customize"
+msgstr "Начать настройку"
+
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr "Отобразить список популярных/новых записей на боковой панели."
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Разметка сайта"
+
+#: inc/customizer.php:78
+msgid "Front Page Posts Layout"
+msgstr "Разметка записей на главной странице"
+
+#: inc/customizer.php:92
+msgid "Archive Page Posts Layout"
+msgstr "Разметка записей на архивной странице"
+
+#: inc/dashboard.php:9
+msgid "%s Theme Dashboard"
+msgstr "%s консоль"
+
+#: inc/widgets/block_1_widget.php:197
+msgid "Posts block layout:"
+msgstr "Разметка записей:"
+
+#: inc/widgets/block_1_widget.php:206 inc/widgets/block_2_widget.php:194
+#: inc/widgets/block_4_widget.php:176
+msgid "Multiselect Categories (all by default):"
+msgstr "Выбрать несколько категорий (все по умолчанию):"
+
+#: inc/widgets/block_2_widget.php:204
+msgid "This widget only show posts has featured image."
+msgstr "Данный виджет отображает только записи с прикрепленными изображениями."
+
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr "Виджет для пролистывания записей на главной странице."
+
+#. Translators: If there are characters in your language that are not supported
+#. by merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:184
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/template-tags.php:102
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/template-tags.php:161
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:190
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "off"
+
+#: inc/customizer.php:99
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr "Рубрика, Метка, Автор, Архив&hellip;"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: inc/widgets/block_1_widget.php:193 inc/widgets/block_2_widget.php:189
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:171
+msgid "Widget Title:"
+msgstr "Название виджета:"
+
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr "Категория блока:"
+
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr "FT Block 1 - Недавние записи"
+
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr "FT Block 2 - Слайдер"
+
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr "FT Block 3"
+
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr "FT Block 4"
+
+#: inc/template-tags.php:131
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.famethemes.com/themes/codilight-lite"
+msgstr "http://www.famethemes.com/themes/codilight-lite"
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"

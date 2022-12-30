@@ -1,0 +1,727 @@
+# Translation of Plugins - a3 Lazy Load - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - a3 Lazy Load - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-01 12:52:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - a3 Lazy Load - Stable (latest release)\n"
+
+#: admin/settings/template-settings/global-settings.php:345
+msgid "Prepend Classnames with a dot example <code>.images_holder</code>, Prepend IDs with hash tag example <code>#wrapper</code> and Comma separate if more than one."
+msgstr "Voeg klassenamen vooraf toe met een puntvoorbeeld <code> .images_holder </code>, voeg vooraf ID's toe met heefthtagvoorbeeld <code> #wrapper </code> en komma's scheiden als er meerdere zijn."
+
+#: admin/settings/template-settings/global-settings.php:343
+msgid "Container Classnames or IDs"
+msgstr "Containerklassen of ID's"
+
+#: admin/settings/template-settings/global-settings.php:340
+msgid "a3 Lazy Load has built in support for Horizontal Scrolling image galleries BUT you must enter the container classname or ID below for it to apply to that horizontal scroll container. Use your code inspector to get the correct classname or ID, it will have style is <code>overflow-x:scroll</code>"
+msgstr "a3 Lazy Load heeft ingebouwde ondersteuning voor horizontaal scrollende afbeeldingsgalerijen MAAR je moet de containerklasse of ID hieronder invoeren om deze toe te passen op die horizontale scrollcontainer. Gebruik je code-inspecteur om de juiste klassenaam of ID te krijgen, deze heeft de stijl <code> overflow-x: scroll </code>"
+
+#: admin/settings/template-settings/global-settings.php:337
+msgid "Horizontal Scroll"
+msgstr "Horizontaal scrollen"
+
+#: admin/settings/template-settings/global-settings.php:410
+msgid "Videos and iFrames can be excluded from Lazy Load either by entering existing classnames below or if it has has no classname by adding the exclusion <code>skip-lazy</code> classname or <code>data-skip-lazy</code> attribute to the video / iframe. Examples, by class <code>&#x3C;video class=\"skip-lazy\"&#x3E;</code>, by attribute <code>&#x3C;video data-skip-lazy&#x3E;</code>"
+msgstr "Videos en iFrames kunnen worden uitgesloten van Lazy Load danwel door het ingegeven van bestaande klasse-namen hieronder of als het geen klasse-naam heeft door het toevoegen van de uitsluiting <code>skip-lazy</code>klasse-naam of <code>data-skip-lazy</code> attribuut van de  video / iframe. Voorbeelden, op klasse <code>&#x3C;video class=\"skip-lazy\"&#x3E;</code>, op attribuut <code>&#x3C;video data-skip-lazy&#x3E;</code>"
+
+#: admin/settings/template-settings/global-settings.php:327
+msgid "Images can be excluded from Lazy Load by entering existing image classnames below or if the image has no classname by adding the exclusion <code>skip-lazy</code> classname or <code>data-skip-lazy</code> attribute to the image. Examples, by class <code>&#x3C;img class=\"skip-lazy\"&#x3E;</code> , by attribute <code>&#x3C;img data-skip-lazy&#x3E;</code>"
+msgstr "Afbeeldingen kunnen worden uitgesloten van Lazy Load door het ingeven van de bestaande afbeelding klasse-namen hieronder of als de afbeelding geen klasse-naam heeft door het toevoegen van de uitsluiting <code>skip-lazy</code> klasse-naam of <code>data-skip-lazy</code> attribuut van de afbeelding. Voorbeelden, door klasse <code>&#x3C;img class=\"skip-lazy\"&#x3E;</code> , van attribuut <code>&#x3C;img data-skip-lazy&#x3E;</code>\""
+
+#: admin/settings/template-settings/global-settings.php:407
+msgid "Exclude Videos / iframes"
+msgstr "Video's/iframes uitsluiten"
+
+#: admin/settings/template-settings/global-settings.php:324
+msgid "Exclude Images"
+msgstr "Afbeeldingen uitsluiten"
+
+#: admin/settings/template-settings/global-settings.php:573
+msgid "If using Jetpack Site Accelerator turn this option on so your Jetpack CDN images can be lazy loaded."
+msgstr "Als je Jetpack Site Accelerator gebruikt, zet je deze optie aan zodat je Jetpack CDN-afbeeldingen lui kunnen worden geladen."
+
+#: admin/settings/template-settings/global-settings.php:572
+msgid "Jetpack Compatibility"
+msgstr "Compatibiliteit met Jetpack"
+
+#: admin/settings/template-settings/global-settings.php:565
+msgid "Jetpack Site Accelerator (Photon) Compatibility"
+msgstr "Compatibiliteit met Jetpack Site Accelerator (Photon)"
+
+#: admin/settings/template-settings/global-settings.php:556
+msgid "Threshold (px)"
+msgstr "Drempel (px)"
+
+#: admin/admin-interface.php:1958
+msgid "Google Map API Key"
+msgstr "Google Map API sleutel"
+
+#: admin/admin-interface.php:1941
+msgid "Enter your existing Google Map API Key below. Don't have a key? Visit <a href='%s' target='_blank'>Google Maps API</a> to create a key"
+msgstr "Voer hieronder je bestaande Google Map API-sleutel in. Heb je geen sleutel? Bezoek <a href='%s' target='_blank'> Google Maps API </a> om een ​​sleutel te maken"
+
+#: admin/admin-interface.php:1937
+msgid "Switch ON to connect to Google Maps API"
+msgstr "Schakel dit in om verbinding te maken met de Google Maps API"
+
+#: admin/admin-interface.php:1925
+msgid "Google Maps API"
+msgstr "Google Maps API"
+
+#: classes/class-a3-lazy-load-excludes.php:27
+msgid "Archive Pages"
+msgstr "Archiveer Pagina's"
+
+#: classes/class-a3-lazy-load-excludes.php:26
+msgid "Author Pages"
+msgstr "Auteurspagina's"
+
+#: classes/class-a3-lazy-load-excludes.php:25
+msgid "Search Page"
+msgstr "Zoekpagina"
+
+#: classes/class-a3-lazy-load-excludes.php:24
+msgid "Post Tags"
+msgstr "Bericht tags"
+
+#: classes/class-a3-lazy-load-excludes.php:23
+msgid "Post Categories"
+msgstr "Berichtcategorieën"
+
+#: classes/class-a3-lazy-load-excludes.php:22
+msgid "Pages"
+msgstr "Pagina's"
+
+#: classes/class-a3-lazy-load-excludes.php:21
+msgid "Posts"
+msgstr "Berichten"
+
+#: classes/class-a3-lazy-load-excludes.php:20
+msgid "Front Page"
+msgstr "Voorpagina"
+
+#: classes/class-a3-lazy-load-excludes.php:19
+msgid "Home Page"
+msgstr "Home pagina"
+
+#: admin/settings/template-settings/global-settings.php:448
+msgid "Do not apply lazy load for the following page types"
+msgstr "Gebruik geen lazy load voor de volgende paginatypen"
+
+#: admin/settings/template-settings/global-settings.php:446
+msgid "Page Type Exclusions"
+msgstr "Uitsluitingen paginatype"
+
+#: admin/settings/template-settings/global-settings.php:443
+msgid "Enter each URI per row"
+msgstr "Voer elke URI per rij in"
+
+#: admin/settings/template-settings/global-settings.php:435
+msgid "URIs"
+msgstr "URI's"
+
+#: admin/settings/template-settings/global-settings.php:432
+msgid "Add strings, 1 per line (not full filenames) that are to be excluded from Lazy Load. Example, if your URL looks like this /domain-name/2018/example-post/ and you just want to exclude that post enter /example-post/. If you want to exclude all posts in /2018/ just year enter /2018/ and Lazy Load won't be applied to /example-post/ and all other posts prefixed by /2018/ in the URL."
+msgstr "Voeg strings toe, 1 per regel (niet volledige bestandsnamen) die moeten worden uitgesloten van Lazy Load. Voorbeeld, als je URL eruit ziet als dit  /domain-name/2018/example-post/ en je wilt dat bericht uitsluiten, voer dan /example-post/ in. Als je alle berichten wil uitsluiten in /2018/ voer dan gewoon /2018/ in, en Lazy Load wordt dan niet toegepast op /example-post/ en alle andere berichten voorafgegaan door /2018/ in de URL."
+
+#: admin/settings/template-settings/global-settings.php:430
+msgid "Exclude by URIs"
+msgstr "Uitsluiten door URI's"
+
+#: admin/settings/template-settings/global-settings.php:423
+msgid "Exclude by URI's and Page Types"
+msgstr "Uitsluiten op URI's en paginatypen"
+
+#: admin/settings/template-settings/global-settings.php:415
+msgid "Find and enter video class name. If more than 1 then comma seperate.<br>Example: video-class1, video-class2. Supports WildCards video*, .*video"
+msgstr "Zoek en voer de naam van de video klasse in. Als er meer dan 1 is, scheidt dan met een komma.<br>Voorbeeld: video-class1, video-class2. Ondersteunt WildCards video*, .*video"
+
+#: admin/settings/template-settings/global-settings.php:332
+msgid "Find and enter image class name. If more than 1 then comma seperate.<br>Example: image-class1, image-class2. Supports Wild Cards image*, .*thumbnail"
+msgstr "Zoek en voer de naam van de afbeelding klasse in. Als er meer dan 1 is, wordt dan komma gescheiden.<br>Voorbeeld: image-class1, image-class2. Ondersteunt Wild Cards afbeelding*, .*thumbnail"
+
+#: admin/admin-interface.php:1988
+msgid "Go to <a href=\"%s\">a3 Dashboard Main page</a> and hit on <strong>CHECK NOW</strong> button to manual check for Update."
+msgstr "Ga naar <a href=\"%s\">a3 Dashboard algemene pagina</a> en druk op <strong>NU CONTROLEREN</strong> knop om handmatig te controleren voor een Update."
+
+#: admin/admin-interface.php:1985
+msgid "You need to go to <a title=\"\" href=\"%s\">a3 Dashboard Main page</a> for login before check for Update. Use your account creds on <a href=\"https://a3rev.com\" target=\"_parent\">a3rev.com</a> to login."
+msgstr "Je dient te gaan naar <a title=\"\" href=\"%s\">a3 Dashboard hoofdpagina</a> login voor controle op Update. Gebruik je account gegevens op <a href=\"https://a3rev.com\" target=\"_parent\">a3rev.com</a> om in te loggen."
+
+#: admin/admin-interface.php:1983
+msgid "You need to activate the <a title=\"\" href=\"%s\" target=\"_parent\">a3rev Dashboard plugin</a> for manage version and get auto upgrade to latest version."
+msgstr "Je moet <a title=\"\" href=\"%s\" target=\"_parent\">a3rev Dashboard plugin</a> activeren, voor het beheren van de versie en krijg automatische upgrade naar de nieuwste versie."
+
+#: admin/admin-interface.php:1981
+msgid "You need to install and activate the <a title=\"\" href=\"%s\" target=\"_parent\">a3rev Dashboard plugin</a> for manage version and get auto upgrade to latest version."
+msgstr "Je moet de <a title=\"\" href=\"%s\" target=\"_parent\"> a3rev Dashboard-plugin </a> installeren en activeren om de versie te beheren en automatisch te upgraden naar de nieuwste versie."
+
+#: admin/admin-interface.php:1976
+msgid "Sorry, this feature just for Network Admin."
+msgstr "Sorry, deze functie alleen voor de netwerkbeheerder."
+
+#. Author URI of the plugin
+msgid "https://a3rev.com/"
+msgstr "https://a3rev.com/"
+
+#. Author of the plugin
+msgid "a3rev Software"
+msgstr "a3rev Software"
+
+#. Description of the plugin
+msgid "Speed up your site and enhance frontend user's visual experience in PC's, Tablets and mobile with a3 Lazy Load."
+msgstr "Versnel je site en verbeter de visuele ervaring van de frontend gebruiker op pc's, tablets en mobiel met a3 Lazy Load."
+
+#: classes/class-a3-lazy-load-filter.php:69
+msgid "Settings"
+msgstr "Instellingen"
+
+#: classes/class-a3-lazy-load-filter.php:64
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: classes/class-a3-lazy-load-filter.php:50
+msgid "a3rev Twitter"
+msgstr "a3rev Twitter"
+
+#: classes/class-a3-lazy-load-filter.php:49
+msgid "a3rev Facebook"
+msgstr "a3rev Facebook"
+
+#: classes/class-a3-lazy-load-filter.php:48
+msgid "Connect with us via"
+msgstr "Maak contact met ons via"
+
+#: classes/class-a3-lazy-load-filter.php:41
+msgid "Submit Review for Plugin on WordPress"
+msgstr "Beoordeling versturen voor Plugin op WordPress"
+
+#: classes/class-a3-lazy-load-filter.php:40
+msgid "Is this plugin is just what you needed? If so"
+msgstr "Is deze plugin precies wat je nodig had? Dan"
+
+#: classes/class-a3-lazy-load-filter.php:33
+msgid "Free WooCommerce Plugins"
+msgstr "Gratis WooCommerce plugins"
+
+#: classes/class-a3-lazy-load-filter.php:26
+msgid "Free WordPress Plugins"
+msgstr "Gratis WordPress plugins"
+
+#: classes/class-a3-lazy-load-filter.php:20
+msgid "Go to Support Forum"
+msgstr "Ga naar het ondersteuningsforum"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:220
+msgid "Comming Soon"
+msgstr "Binnenkort beschikbaar"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:212
+msgid "Free"
+msgstr "Gratis"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:206
+msgid "Get this extension"
+msgstr "Download deze extensie"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:203
+msgid "Activate"
+msgstr "Activeer"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:201
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:26
+#: classes/addons/class-a3-lazy-load-addons-page.php:61
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: classes/addons/class-a3-lazy-load-addons-page.php:26
+#: classes/addons/class-a3-lazy-load-addons-page.php:41
+msgid "a3 Lazy Load Add-ons/Extensions"
+msgstr "a3 Lazy Load Add-ons/Extensies"
+
+#: admin/settings/template-settings/global-settings.php:558
+msgid "Expands visible page area (viewport) in vertical direction by the amount of pixels set. Elements start to load as soon as they reach the threshold instead of when they reach the actual viewport."
+msgstr "Breidt zichtbaar paginagebied (viewport) in verticale richting uit met het aantal pixels dat is ingesteld. Elementen beginnen te laden zodra ze de drempel bereiken in plaats van wanneer ze de daadwerkelijke viewport bereiken."
+
+#: admin/settings/template-settings/global-settings.php:549
+msgid "Image Load Threshold"
+msgstr "Afbeelding laaddrempel"
+
+#: admin/settings/template-settings/global-settings.php:542
+msgid "Loading Background Colour"
+msgstr "Achtergrondkleur laden"
+
+#: admin/settings/template-settings/global-settings.php:539
+msgid "SPINNER"
+msgstr "SPINNER"
+
+#: admin/settings/template-settings/global-settings.php:538
+msgid "FADE IN"
+msgstr "VERVAGEN"
+
+#: admin/settings/template-settings/global-settings.php:532
+msgid "Loading Effect"
+msgstr "Effect laden"
+
+#: admin/settings/template-settings/global-settings.php:525
+msgid "Effect & Style"
+msgstr "Effect & Stijl"
+
+#: admin/settings/template-settings/global-settings.php:514
+msgid "Disables a3 Lazy Load when the MobilePress mobile theme is used"
+msgstr "Uitschakelen van a3 Lazy Load wanneer het MobilePress mobiele thema wordt gebruikt"
+
+#: admin/settings/template-settings/global-settings.php:513
+msgid "Disable On MobilePress"
+msgstr "Uitschakelen bij MobilePress"
+
+#: admin/settings/template-settings/global-settings.php:503
+msgid "Disables a3 Lazy Load when the WPTouch mobile theme is used"
+msgstr "Schakelt a3 Lazy Load uit wanneer het mobiele WPTouch-thema wordt gebruikt"
+
+#: admin/settings/template-settings/global-settings.php:502
+msgid "Disable On WPTouch"
+msgstr "Uitschakelen op WPTouch"
+
+#: admin/settings/template-settings/global-settings.php:495
+msgid "WordPress Mobile Template Plugins"
+msgstr "WordPress Mobiele Template Plugins"
+
+#: admin/settings/template-settings/global-settings.php:491
+msgid "FOOTER"
+msgstr "FOOTER"
+
+#: admin/settings/template-settings/global-settings.php:490
+msgid "HEADER"
+msgstr "HEADER"
+
+#: admin/settings/template-settings/global-settings.php:484
+msgid "Your theme must have the wp_footer() function if you select FOOTER load."
+msgstr "Je thema moet de functie wp_footer () hebben als je FOOTER laden selecteert."
+
+#: admin/settings/template-settings/global-settings.php:483
+msgid "Theme Loader Function"
+msgstr "Thema lader functie"
+
+#: admin/settings/template-settings/global-settings.php:476
+msgid "Script Load Optimization"
+msgstr "Script load optimalisering"
+
+#: admin/settings/template-settings/global-settings.php:398
+msgid "Turn ON to activate Noscript tag as a fallback to show WordPress Embeds, HTML 5 Video and iframe loaded content for users who have JavaScript disabled in their browser."
+msgstr "Schakel dit in om de Noscript tag te activeren als een fallback om WordPress insluitingen te tonen, HTML 5 video en iframe geladen inhoud weer te geven voor gebruikers die JavaScript hebben uitgeschakeld in hun browser."
+
+#: admin/settings/template-settings/global-settings.php:413
+msgid "Skip Videos Classes"
+msgstr "Overslaan Video's klassen"
+
+#: admin/settings/template-settings/global-settings.php:386
+msgid "In Widgets"
+msgstr "In Widgets"
+
+#: admin/settings/template-settings/global-settings.php:376
+msgid "In Content"
+msgstr "In inhoud"
+
+#: admin/settings/template-settings/global-settings.php:360
+msgid "Turn ON to activate Lazy Load for <a href=\"%s\" target=\"_blank\">WordPress Embeds</a>, <a href=\"%s\" target=\"_blank\">HTML5 Video</a> and content loaded by iframe from all sources. Note: WordPress Shortcode is not supported."
+msgstr "Schakel IN om Lazy Load voor <a href=\"%s\" target=\"_blank\">WordPress Embeds</a>, <a href=\"%s\" target=\"_blank\">HTML5 Video</a> en inhoud geladen door iframe uit alle bronnen te activeren. Opmerking: WordPress Shortcode wordt niet ondersteund."
+
+#: admin/settings/template-settings/global-settings.php:359
+msgid "Video and iframes"
+msgstr "Video en iframes"
+
+#: admin/settings/template-settings/global-settings.php:352
+msgid "Lazy Load Videos and iframes"
+msgstr "Lazy Load Videos en iframes"
+
+#: admin/settings/template-settings/global-settings.php:315
+msgid "Turn ON to activate Noscript tag as a fallback to show images for users who have JavaScript disabled in their browser."
+msgstr "Schakel IN om de Noscript tag te activeren als een terugval om afbeeldingen weer te geven voor gebruikers die JavaScript hebben uitgeschakeld in hun browser."
+
+#: admin/settings/template-settings/global-settings.php:313
+#: admin/settings/template-settings/global-settings.php:396
+msgid "Noscript Support"
+msgstr "Noscript ondersteuning"
+
+#: admin/settings/template-settings/global-settings.php:330
+msgid "Skip Images Classes"
+msgstr "Overslaan afbeeldingen klassen"
+
+#: admin/settings/template-settings/global-settings.php:303
+msgid "Gravatars"
+msgstr "Gravatars"
+
+#: admin/settings/template-settings/global-settings.php:293
+msgid "Post Thumbnails"
+msgstr "Bericht thumbnail"
+
+#: admin/settings/template-settings/global-settings.php:283
+msgid "Images in Widgets"
+msgstr "Afbeeldingen in widgets"
+
+#: admin/settings/template-settings/global-settings.php:273
+msgid "Images in Content"
+msgstr "Afbeeldingen in inhoud"
+
+#: admin/settings/template-settings/global-settings.php:257
+msgid "Enable Lazy Load for Images"
+msgstr "Inschakelen Lazy Load voor afbeeldingen"
+
+#: admin/settings/template-settings/global-settings.php:250
+msgid "Lazy Load Images"
+msgstr "Lazy Load afbeeldingen"
+
+#: admin/settings/template-settings/global-settings.php:238
+msgid "Enable Lazy Load"
+msgstr "Inschakelen Lazy Load"
+
+#: admin/settings/template-settings/global-settings.php:232
+msgid "Lazy Load Activation"
+msgstr "Lazy Load activering"
+
+#: admin/settings/template-settings/global-settings.php:219
+msgid "On deletion (not deactivate) the plugin will completely remove all tables and data it created, leaving no trace it was ever here."
+msgstr "Bij het verwijderen (niet deactiveren) verwijdert de plugin alle tabellen en gegevens die het heeft gemaakt volledig, waardoor er geen spoor meer achterblijft dat het er ooit was."
+
+#: admin/settings/template-settings/global-settings.php:218
+msgid "Clean up on Deletion"
+msgstr "Ruim op bij verwijderen"
+
+#: admin/settings/template-settings/global-settings.php:214
+msgid "House Keeping"
+msgstr "Huishouding"
+
+#: admin/settings/template-settings/global-settings.php:207
+msgid "By default each admin panel will open with all Setting Boxes in the CLOSED position."
+msgstr "Standaard wordt elk beheerderscherm geopend met alle instelling boxen in de positie GESLOTEN."
+
+#: admin/settings/template-settings/global-settings.php:206
+msgid "Customize Admin Setting Box Display"
+msgstr "Pas het display voor beheerder box instellingen aan"
+
+#: admin/settings/template-settings/global-settings.php:199
+msgid "Plugin Framework Global Settings"
+msgstr "Algemene instellingen voor Plugin Framework"
+
+#: admin/settings/template-settings/global-settings.php:155
+#: admin/tabs/template-settings/global-settings-tab.php:82
+msgid "Global Settings"
+msgstr "Algemene instellingen"
+
+#: admin/includes/uploader/class-uploader.php:127
+msgid "View File"
+msgstr "Bekijk bestand"
+
+#: admin/includes/uploader/class-uploader.php:107
+msgid "Upload"
+msgstr "Uploaden"
+
+#: admin/admin-ui.php:435
+msgid "There is a new version <span class=\"a3rev-ui-new-plugin-version\">%s</span> available, <a href=\"%s\" target=\"_blank\">update now</a> or download direct from <a href=\"%s\" target=\"_blank\">My Account</a> on a3rev.com"
+msgstr "Er is een nieuwe versie <span class=\"a3rev-ui-new-plugin-version\">%s</span> beschikbaar, <a href=\"%s\" target=\"_blank\">nu bijwerken</a> of download rechtstreeks van <a href=\"%s\" target=\"_blank\">Mijn Account</a> op a3rev.com"
+
+#: admin/admin-ui.php:427
+msgid "Connection Failure! Please try again. If this issue persists please create a support request on the plugin <a href=\"%s\" target=\"_blank\">a3rev support forum</a>."
+msgstr "Verbindingsfout! Probeer het opnieuw. Als dit probleem zich blijft voordoen, gelieve een ondersteuning aanvraag te maken over de plugin op het <a href=\"%s\" target=\"_blank\">a3rev ondersteuning forum</a>."
+
+#: admin/admin-ui.php:425 admin/admin-ui.php:444
+msgid "You should check now to see if have any new version is available"
+msgstr "Controleer nu of er een nieuwe versie beschikbaar is"
+
+#: admin/admin-ui.php:375
+msgid "Pro Version"
+msgstr "Pro versie"
+
+#: admin/admin-ui.php:372
+msgid "Advanced Settings - Upgrade to the <a href=\"%s\" target=\"_blank\">%s License</a> to activate these settings."
+msgstr "Geavanceerde instellingen - Upgrade naar de  <a href=\"%s\" target=\"_blank\">%s Licentie</a> om deze instellingen te activeren."
+
+#: admin/admin-ui.php:224
+msgid "Get Premium Features and Support"
+msgstr "Krijg premium functies en ondersteuning"
+
+#: admin/admin-ui.php:223
+msgid "Limited Time Offer. Purchase the Premium Version Lifetime License. That is a Lifetime of maintenance updates, feature upgrades and developer support for a once only fee. Offer ending soon."
+msgstr "Tijdelijke aanbieding. Koop de Premium versie levenslange licentie. Dat is de levensduur van onderhoudsupdates, functie upgrades en ondersteuning voor ontwikkelaars voor een eenmalige vergoeding. Aanbieding loopt binnenkort af."
+
+#: admin/admin-ui.php:222
+msgid "Developer Support and Premium Features"
+msgstr "Ondersteuning voor ontwikkelaars en premium functies"
+
+#: admin/admin-ui.php:221
+msgid "Quick Video showing the main (not all) enhanced features that are built into the WooCommerce Dynamic Gallery Premium version"
+msgstr "Quick Video toont de belangrijkste (niet alle) verbeterde functies die zijn ingebouwd in de WooCommerce Dynamic Gallery Premium versie"
+
+#: admin/admin-ui.php:220
+msgid "WooCommerce Dynamic Gallery Premium"
+msgstr "WooCommerce Dynamic Gallery Premium"
+
+#: admin/admin-ui.php:216 admin/admin-ui.php:219
+msgid "Premium Version Enhanced Features"
+msgstr "Premium versie verbeterde functies"
+
+#. Plugin Name of the plugin
+#: admin/admin-pages/admin-settings-page.php:66
+#: admin/admin-pages/admin-settings-page.php:67
+msgid "a3 Lazy Load"
+msgstr "a3 Lazy Load"
+
+#: admin/admin-interface.php:3628
+msgid "Reset Settings"
+msgstr "Herstel Instellingen"
+
+#: admin/admin-interface.php:3627
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: admin/admin-interface.php:3325
+msgid "Preview your customized box shadow settings"
+msgstr "Bekijk een voorbeeld van je aangepaste box schaduw instellingen"
+
+#: admin/admin-interface.php:3307
+msgid "OUTER"
+msgstr "BUITENSTE"
+
+#: admin/admin-interface.php:3306
+msgid "INNER"
+msgstr "BINNENSTE"
+
+#: admin/admin-interface.php:3288
+msgid "Spread Size"
+msgstr "Spreidingsgrootte"
+
+#: admin/admin-interface.php:3270
+msgid "Blur Distance"
+msgstr "Vervaag afstand"
+
+#: admin/admin-interface.php:3252
+msgid "Vertical Shadow"
+msgstr "Verticale schaduw"
+
+#: admin/admin-interface.php:3234
+msgid "Horizontal Shadow"
+msgstr "Horizontale schaduw"
+
+#: admin/admin-interface.php:3036
+msgid "Preview your customized border styles settings"
+msgstr "Bekijk een voorbeeld van je aangepaste instellingen voor randstijlen"
+
+#: admin/admin-interface.php:2949 admin/admin-interface.php:3168
+msgid "Bottom Left Corner"
+msgstr "Linker onderhoek"
+
+#: admin/admin-interface.php:2929 admin/admin-interface.php:3148
+msgid "Bottom Right Corner"
+msgstr "Rechter onderhoek"
+
+#: admin/admin-interface.php:2909 admin/admin-interface.php:3128
+msgid "Top Right Corner"
+msgstr "Rechter bovenhoek"
+
+#: admin/admin-interface.php:2889 admin/admin-interface.php:3108
+msgid "Top Left Corner"
+msgstr "Linker bovenhoek"
+
+#: admin/admin-interface.php:2879 admin/admin-interface.php:3095
+msgid "Square"
+msgstr "Vierkant"
+
+#: admin/admin-interface.php:2878 admin/admin-interface.php:3094
+msgid "Rounded"
+msgstr "Afgerond"
+
+#: admin/admin-interface.php:2870 admin/admin-interface.php:3037
+msgid "0px = No Border"
+msgstr "0px = geen rand"
+
+#: admin/admin-interface.php:2869 admin/admin-interface.php:3103
+msgid "Preview your customized border settings"
+msgstr "Bekijk een voorbeeld van je aangepaste randinstellingen"
+
+#: admin/admin-interface.php:2760
+msgid "Preview your customized typography settings"
+msgstr "Bekijk een voorbeeld van je aangepaste typografie instellingen"
+
+#: admin/admin-interface.php:2719
+msgid "-- Google Fonts --"
+msgstr "-- Google Lettertypen --"
+
+#: admin/admin-interface.php:2708
+msgid "-- Default Fonts --"
+msgstr "-- Standaard Lettertypen --"
+
+#: admin/admin-interface.php:2615
+msgid "Hard Crop"
+msgstr "Geforceerd bijsnijden"
+
+#: admin/admin-interface.php:2613
+msgid "Height"
+msgstr "Hoogte"
+
+#: admin/admin-interface.php:2611
+msgid "Width"
+msgstr "Breedte"
+
+#: admin/admin-interface.php:2195
+msgid "ON and each admin panel setting box OPEN | CLOSED position are saved each time changes are SAVED."
+msgstr "AAN en elk instellingsvenster van het beheerder venster OPEN | De GESLOTEN positie wordt opgeslagen elke keer dat de wijzigingen OPGESLAGEN worden."
+
+#: admin/admin-interface.php:2182
+msgid "Open Box Display"
+msgstr "Open box weergave"
+
+#: admin/admin-interface.php:1906 admin/admin-interface.php:1962
+msgid "Please enter a valid Google API Key."
+msgstr "Voer een geldige Google API-sleutel in."
+
+#: admin/admin-interface.php:1905 admin/admin-interface.php:1961
+msgid "Your Google API Key is valid and automatic font updates are enabled."
+msgstr "Je Google API-sleutel is geldig en automatische lettertype updates zijn ingeschakeld."
+
+#: admin/admin-interface.php:1902
+msgid "Google Fonts API Key"
+msgstr "Google Fonts API-sleutel"
+
+#: admin/admin-interface.php:1885
+msgid "Enter your existing Google Fonts API Key below. Don't have a key? Visit <a href='%s' target='_blank'>Google Developer API</a> to create a key"
+msgstr "Voer hieronder je bestaande Google Fonts API-sleutel in. Heb je geen sleutel? Bezoek <a href='%s' target='_blank'>Google Developer API</a> om een sleutel aan te maken"
+
+#: admin/admin-interface.php:1881
+msgid "ON to connect to Google Fonts API and have auto font updates direct from Google."
+msgstr "AAN om verbinding te maken met de Google Fonts API en automatische lettertype updates rechtstreeks van Google te ontvangen."
+
+#: admin/admin-interface.php:1869
+msgid "Google Fonts API"
+msgstr "Google Lettertypen API"
+
+#: admin/admin-interface.php:1864 admin/admin-interface.php:1920
+#: admin/admin-interface.php:2177 admin/admin-interface.php:2277
+#: admin/admin-interface.php:2457 admin/admin-interface.php:2547
+#: admin/admin-interface.php:2576 admin/admin-interface.php:3219
+#: admin/settings/template-settings/global-settings.php:228
+#: admin/settings/template-settings/global-settings.php:246
+#: admin/settings/template-settings/global-settings.php:265
+#: admin/settings/template-settings/global-settings.php:280
+#: admin/settings/template-settings/global-settings.php:290
+#: admin/settings/template-settings/global-settings.php:300
+#: admin/settings/template-settings/global-settings.php:310
+#: admin/settings/template-settings/global-settings.php:321
+#: admin/settings/template-settings/global-settings.php:368
+#: admin/settings/template-settings/global-settings.php:383
+#: admin/settings/template-settings/global-settings.php:393
+#: admin/settings/template-settings/global-settings.php:404
+#: admin/settings/template-settings/global-settings.php:467
+#: admin/settings/template-settings/global-settings.php:510
+#: admin/settings/template-settings/global-settings.php:521
+#: admin/settings/template-settings/global-settings.php:580
+msgid "OFF"
+msgstr "UIT"
+
+#: admin/admin-interface.php:1863 admin/admin-interface.php:1919
+#: admin/admin-interface.php:2176 admin/admin-interface.php:2276
+#: admin/admin-interface.php:2456 admin/admin-interface.php:2546
+#: admin/admin-interface.php:2575 admin/admin-interface.php:3218
+#: admin/settings/template-settings/global-settings.php:227
+#: admin/settings/template-settings/global-settings.php:245
+#: admin/settings/template-settings/global-settings.php:264
+#: admin/settings/template-settings/global-settings.php:279
+#: admin/settings/template-settings/global-settings.php:289
+#: admin/settings/template-settings/global-settings.php:299
+#: admin/settings/template-settings/global-settings.php:309
+#: admin/settings/template-settings/global-settings.php:320
+#: admin/settings/template-settings/global-settings.php:367
+#: admin/settings/template-settings/global-settings.php:382
+#: admin/settings/template-settings/global-settings.php:392
+#: admin/settings/template-settings/global-settings.php:403
+#: admin/settings/template-settings/global-settings.php:466
+#: admin/settings/template-settings/global-settings.php:509
+#: admin/settings/template-settings/global-settings.php:520
+#: admin/settings/template-settings/global-settings.php:579
+msgid "ON"
+msgstr "AAN"
+
+#: admin/admin-interface.php:334
+msgid "Outset"
+msgstr "Outset"
+
+#: admin/admin-interface.php:333
+msgid "Inset"
+msgstr "Inset"
+
+#: admin/admin-interface.php:332
+msgid "Ridge"
+msgstr "Ridge"
+
+#: admin/admin-interface.php:331
+msgid "Groove"
+msgstr "Groove"
+
+#: admin/admin-interface.php:330
+msgid "Dotted"
+msgstr "Gestippeld"
+
+#: admin/admin-interface.php:329
+msgid "Dashed"
+msgstr "Gestippeld"
+
+#: admin/admin-interface.php:328
+msgid "Double"
+msgstr "Dubbel"
+
+#: admin/admin-interface.php:327
+msgid "Solid"
+msgstr "Ononderbroken"
+
+#: admin/admin-interface.php:317
+msgid "Bold/Italic"
+msgstr "Vet/cursief"
+
+#: admin/admin-interface.php:316
+msgid "Bold"
+msgstr "Vetgedrukt"
+
+#: admin/admin-interface.php:315
+msgid "Italic"
+msgstr "Cursief"
+
+#: admin/admin-interface.php:314
+msgid "Normal"
+msgstr "Normaal"
+
+#: admin/admin-interface.php:313
+msgid "Thin/Italic"
+msgstr "Dun/cursief"
+
+#: admin/admin-interface.php:312
+msgid "Thin"
+msgstr "Dun"
+
+#: admin/admin-interface.php:291
+#: admin/settings/template-settings/global-settings.php:89
+msgid "Settings successfully reseted."
+msgstr "Instellingen zijn met succes hersteld."
+
+#: admin/admin-interface.php:283
+#: admin/settings/template-settings/global-settings.php:88
+msgid "Error: Settings can not save."
+msgstr "Fout: instellingen kunnen niet opslagen worden."
+
+#: admin/admin-interface.php:275
+#: admin/settings/template-settings/global-settings.php:87
+msgid "Settings successfully saved."
+msgstr "Instellingen succesvol opgeslagen."
+
+#: admin/admin-interface.php:211
+msgid "Great! You have the latest version installed."
+msgstr "Super goed! Je hebt de nieuwste versie geïnstalleerd."

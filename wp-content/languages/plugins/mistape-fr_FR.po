@@ -1,0 +1,419 @@
+# Translation of Plugins - Mistape - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Mistape - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-02 16:55:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Mistape - Stable (latest release)\n"
+
+#: src/class-deco-mistape-admin.php:212
+msgid "Buy PRO for just"
+msgstr "Achetez la Pro pour seulement"
+
+#: src/class-deco-mistape-admin.php:208
+msgid "An option to mark notification as resolved, archive, delete from the table in one click"
+msgstr "Une option pour marquer la notification comme résolue, l’archiver, la supprimer de la table en un seul clic"
+
+#: src/class-deco-mistape-admin.php:205
+msgid "Detailed mistake statistics is available in Mistape PRO"
+msgstr "Des statistiques détaillées sur les erreurs sont disponibles dans Mistape PRO"
+
+#: src/class-deco-mistape-admin.php:374
+msgid "Here you can enable Mistape.com link in an icon"
+msgstr "Vous pouvez afficher ici le lien Mistape.com en tant qu’icône."
+
+#: src/class-deco-mistape-admin.php:373
+msgid "Enable"
+msgstr "Activer"
+
+#: src/class-deco-mistape-admin.php:251
+msgid "Powered by"
+msgstr "Propulsé par"
+
+#: src/class-deco-mistape-admin.php:432
+msgid "no icon"
+msgstr "pas d’icône"
+
+#: src/class-deco-mistape-admin.php:918
+msgid "Vote!"
+msgstr "Votez !"
+
+#: src/class-deco-mistape-admin.php:477
+msgid "default color"
+msgstr "couleur par défaut"
+
+#: src/class-deco-mistape-admin.php:253
+msgid "Color scheme"
+msgstr "Jeu de couleurs"
+
+#: src/class-deco-mistape-admin.php:249
+msgid "Icon before the caption text"
+msgstr "Icône avant le texte de la légende"
+
+#: src/class-deco-mistape-ajax.php:93
+msgid "Our editors already got notified about this error. Thanks for your care."
+msgstr "Nos rédacteurs sont déjà informés de cette erreur. Merci pour votre attention."
+
+#: src/class-deco-mistape-admin.php:886
+msgid "Allows for custom reports handling. Refer to code for implementation details."
+msgstr "Permet la gestion de rapports personnalisés. Reportez-vous au code pour les détails de mise en œuvre."
+
+#: src/class-deco-mistape-admin.php:860
+msgid "Allows to override email sending logic."
+msgstr "Permet de remplacer la logique de l’envoi des e-mails."
+
+#: src/class-deco-mistape-admin.php:363
+msgid "When enabled, Mistape Ctrl+Enter listener works on all pages, not only on enabled post types."
+msgstr "Lorsqu’elle est activée, la veille Ctrl+Entrée de Mistape fonctionne sur toutes les pages et pas uniquement sur les types d’article disponibles."
+
+#: src/class-deco-mistape-admin.php:317
+msgctxt "select option, shown when no users with editor role are present"
+msgid "no editors found"
+msgstr "aucun éditeur trouvé"
+
+#: src/class-deco-mistape-admin.php:198
+msgid "Reports received up to date:"
+msgstr "Rapports reçus à ce jour :"
+
+#: src/class-deco-mistape-admin.php:192
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: src/class-deco-mistape-admin.php:156
+msgctxt "deco.agency's products"
+msgid "%s's products"
+msgstr "Produits de %s"
+
+#: src/class-deco-mistape-admin.php:149
+msgctxt "please rate our plugin"
+msgid "rate"
+msgstr "évaluer"
+
+#: src/class-deco-mistape-admin.php:147
+msgctxt "%s = rate"
+msgid "Please %s our plugin"
+msgstr "Veuillez %s notre extension"
+
+#: src/class-deco-mistape-ajax.php:111
+msgid "Email service returned an error while trying to deliver your report."
+msgstr "Le service de messagerie a renvoyé une erreur en essayant d’envoyer votre rapport."
+
+#: src/class-deco-mistape-ajax.php:81
+msgid "No text selected."
+msgstr "Aucun texte sélectionné."
+
+#: src/class-deco-mistape-admin.php:898
+msgid "Allows to add custom logic for whether to output Mistape to front end or not."
+msgstr "Permet d’ajouter une logique personnalisée pour l’affichage ou non de Mistape sur l’interface publique."
+
+#: src/class-deco-mistape-admin.php:513
+msgid "Copy settings from main site when new blog is created"
+msgstr "Copie les réglages du site principal quand un nouveau blog est créé"
+
+#: src/class-deco-mistape-admin.php:259
+msgid "Multisite inheritance"
+msgstr "Héritage multisite"
+
+#: src/class-deco-mistape-admin.php:69
+msgid "Do not show caption at the bottom of post"
+msgstr "Ne pas afficher de texte d’information en bas des articles"
+
+#. Author URI of the plugin/theme
+msgid "https://deco.agency"
+msgstr "https://deco.agency"
+
+#. Author of the plugin/theme
+msgid "deco.agency"
+msgstr "deco.agency"
+
+#. Description of the plugin/theme
+msgid "Mistape allows visitors to effortlessly notify site staff about found spelling errors."
+msgstr "Mistape permet aux visiteurs de notifier facilement les responsables d’un site des fautes d’orthographe détectées."
+
+#. Plugin Name of the plugin/theme
+msgid "Mistape"
+msgstr "Mistape"
+
+#: src/class-deco-mistape-abstract.php:138
+msgid "Your comment (optional)"
+msgstr "Votre commentaire (facultatif)"
+
+#: src/class-deco-mistape-abstract.php:134
+msgid "Send"
+msgstr "Envoyer"
+
+#: src/class-deco-mistape-abstract.php:133
+msgid "Cancel"
+msgstr "Annuler"
+
+#: src/class-deco-mistape-abstract.php:131
+msgid "The following text will be sent to our editors:"
+msgstr "Le texte suivant sera envoyé à nos rédacteurs&nbsp;:"
+
+#: src/class-deco-mistape-abstract.php:130
+msgid "Spelling error report"
+msgstr "Rapport de faute d’orthographe"
+
+#: src/class-deco-mistape-abstract.php:126
+msgid "Close"
+msgstr "Fermé"
+
+#: src/class-deco-mistape-abstract.php:125 src/class-deco-mistape-ajax.php:106
+msgid "Our editors are notified."
+msgstr "Nos rédacteurs sont prévenus."
+
+#: src/class-deco-mistape-abstract.php:124 src/class-deco-mistape-ajax.php:92
+#: src/class-deco-mistape-ajax.php:105
+msgid "Thanks!"
+msgstr "Merci&nbsp;!"
+
+#: src/class-deco-mistape-ajax.php:212
+msgid "Comment:"
+msgstr "Commentaire&nbsp;:"
+
+#: src/class-deco-mistape-ajax.php:208
+msgid "Reported text"
+msgstr "Texte de rapport"
+
+#: src/class-deco-mistape-ajax.php:205
+msgid "Reported by:"
+msgstr "Rapporté par :"
+
+#: src/class-deco-mistape-ajax.php:199
+msgid "Post edit URL:"
+msgstr "URL d'édition d’article&nbsp;:"
+
+#: src/class-deco-mistape-ajax.php:193
+msgctxt "[Email] Reported from page: unknown"
+msgid "unknown"
+msgstr "inconnu"
+
+#: src/class-deco-mistape-ajax.php:192
+msgid "Reported from page:"
+msgstr "Rapport de la page :"
+
+#: src/class-deco-mistape-ajax.php:223
+msgid "Spelling error reported"
+msgstr "Faute d’orthographe rapportée"
+
+#: src/class-deco-mistape-ajax.php:73
+msgid "Spam protection: too many reports from your IP address."
+msgstr "Protection anti-spam&nbsp;: trop de rapports venant de votre adresse IP."
+
+#: src/class-deco-mistape-ajax.php:72 src/class-deco-mistape-ajax.php:80
+#: src/class-deco-mistape-ajax.php:110
+msgid "Report not sent"
+msgstr "Rapport non envoyé"
+
+#: src/class-deco-mistape-admin.php:892
+msgid "Allows to modify global options array during initialization."
+msgstr "Permet la modification du champ d’options global durant l’initialisation."
+
+#: src/class-deco-mistape-admin.php:880
+msgid "Allows to modify email message to send."
+msgstr "Permet le changement du message de l’e-mail à envoyer."
+
+#: src/class-deco-mistape-admin.php:873
+msgid "Allows to change email subject."
+msgstr "Permet le changement du sujet de l’e-mail."
+
+#: src/class-deco-mistape-admin.php:866
+msgid "Allows to change email recipient."
+msgstr "Permet la modification du destinataire de l’e-mail."
+
+#: src/class-deco-mistape-admin.php:853
+msgid "Allows to modify the modal dialog HTML before output."
+msgstr "Permet de modifier la fenêtre de dialogue HTML modale avant le rendu."
+
+#: src/class-deco-mistape-admin.php:846
+msgid "Allows to modify modal dialog strings (preferred over HTML filter)."
+msgstr "Permet la modification des chaînes de dialogue de la page modale (plutôt que de passer par le filtre HTML)"
+
+#: src/class-deco-mistape-admin.php:840
+msgid "Allows to modify the caption HTML before output."
+msgstr "Permet de modifier l’HTML du message d’information avant le rendu."
+
+#: src/class-deco-mistape-admin.php:833
+msgid "Allows to modify caption text globally (preferred over HTML filter)."
+msgstr "Autorise la modification  globale du texte de légende de la page modale (plutôt que de passer par le filtre HTML)"
+
+#: src/class-deco-mistape-admin.php:827
+msgid "Hooks"
+msgstr "Hooks"
+
+#: src/class-deco-mistape-admin.php:819
+msgid "PHP code example:"
+msgstr "Exemple de code PHP&nbsp;:"
+
+#: src/class-deco-mistape-admin.php:815
+msgid "Shortcode usage example:"
+msgstr "Exemple d’utilisation du code court&nbsp;:"
+
+#: src/class-deco-mistape-admin.php:814
+msgid "If image url is specified, format parameter can be omitted."
+msgstr "Si l’URL de l’image est précisée, le paramètre de format peut être omis."
+
+#: src/class-deco-mistape-admin.php:813
+msgid "When no parameters specified, general configuration is used."
+msgstr "Quand aucun paramètre n’est spécifié, la configuration générale est utilisée."
+
+#: src/class-deco-mistape-admin.php:811
+msgid "override image URL"
+msgstr "remplacer l’URL de l’image"
+
+#: src/class-deco-mistape-admin.php:810
+msgid "override caption text"
+msgstr "remplacer le texte du message d’information"
+
+#: src/class-deco-mistape-admin.php:809
+msgid "override default css class"
+msgstr "remplacer la classe CSS par défaut"
+
+#: src/class-deco-mistape-admin.php:808
+msgid "can be 'text' or 'image'"
+msgstr "peut être «&nbsp;text&nbsp;» ou «&nbsp;image&nbsp;»"
+
+#: src/class-deco-mistape-admin.php:806
+msgid "Optional shortcode parameters are:"
+msgstr "Les paramètres optionnels de code court sont&nbsp;:"
+
+#: src/class-deco-mistape-admin.php:752
+msgid "<strong>Mistape</strong> must now be <a href=\"%s\">configured</a> before use."
+msgstr "<strong>Mistape</strong> doit maintenant <a href=\"%s\">être configuré</a> avant d’être utilisable.."
+
+#: src/class-deco-mistape-admin.php:749
+msgid "<strong>Mistape</strong> settings notice will be dismissed after saving changes."
+msgstr "La notification concernant les réglages de <strong>Mistape</strong> disparaitra après l’enregistrement des modifications."
+
+#: src/class-deco-mistape-admin.php:640
+msgid "Settings"
+msgstr "Réglages"
+
+#: src/class-deco-mistape-admin.php:598
+msgid "ERROR: You didn't enter caption image URL."
+msgstr "Erreur  vous n’avez pas saisi une URL d’image de légende."
+
+#: src/class-deco-mistape-admin.php:574
+msgid "ERROR: You didn't select valid email recipient."
+msgstr "ERREUR : Vous n'avez pas sélectionné d’adresse e-mail valide."
+
+#: src/class-deco-mistape-admin.php:563
+msgid "ERROR: You entered invalid email address: %s"
+msgstr "Erreur : vous avez saisi une adresse de messagerie non valide : %s"
+
+#: src/class-deco-mistape-admin.php:501
+msgid "Preview dialog"
+msgstr "Dialogue de prévisualisation"
+
+#: src/class-deco-mistape-admin.php:393
+msgid "Enter the full image URL starting with http://"
+msgstr "Saisissez l’URL complète de l’image en commençant par http://"
+
+#: src/class-deco-mistape-admin.php:362
+msgid "Usage examples are in Help section."
+msgstr "Des exemples d’utilisation sont visibles dans la section d’aide."
+
+#: src/class-deco-mistape-admin.php:361
+msgid "Enable if manual caption insertion via shortcodes is needed."
+msgstr "Activer si l’insertion manuelle du message d’information via un code court est nécessaire."
+
+#: src/class-deco-mistape-admin.php:359
+msgid "Register <code>[mistape]</code> shortcode."
+msgstr "Inscrire le code court <code>[mistape]</code>."
+
+#: src/class-deco-mistape-admin.php:348
+msgid "\"Press Ctrl+Enter&hellip;\" captions will be displayed at the bottom of selected post types."
+msgstr "Le message « Pressez Ctrl+Entrée &hellip; » sera affiché au bas des types de contenu sélectionnés."
+
+#: src/class-deco-mistape-admin.php:329
+msgid "If post ID is determined, notify post author instead"
+msgstr "Si l’ID de l’article est déterminée, notifier plutôt l’auteur de l’article"
+
+#: src/class-deco-mistape-admin.php:324
+msgid "separate multiple recipients with commas"
+msgstr "Séparez les destinataires multiples par des virgules"
+
+#: src/class-deco-mistape-admin.php:255
+msgid "Dialog mode"
+msgstr "Mode de dialogue"
+
+#: src/class-deco-mistape-admin.php:247
+msgid "Caption text mode"
+msgstr "Mode texte du message d’information"
+
+#: src/class-deco-mistape-admin.php:245
+msgid "Caption format"
+msgstr "Format du message d’information"
+
+#: src/class-deco-mistape-admin.php:243 src/class-deco-mistape-admin.php:805
+msgid "Shortcodes"
+msgstr "Codes courts"
+
+#: src/class-deco-mistape-admin.php:241
+msgid "Post types"
+msgstr "Types de publication"
+
+#: src/class-deco-mistape-admin.php:239
+msgid "Email recipient"
+msgstr "Destinataire de l’e-mail"
+
+#: src/class-deco-mistape-admin.php:133
+msgid "Help"
+msgstr "Aide"
+
+#: src/class-deco-mistape-admin.php:130
+msgid "Configuration"
+msgstr "Configuration"
+
+#: src/class-deco-mistape-admin.php:86
+msgid "Preview and comment field"
+msgstr "Prévisualisation et champ de commentaire"
+
+#: src/class-deco-mistape-admin.php:85
+msgid "Show preview of reported text and ask confirmation"
+msgstr "Afficher l’aperçu du texte signalé et demander confirmation"
+
+#: src/class-deco-mistape-admin.php:84
+msgid "Just notify of successful submission"
+msgstr "Simple notification de soumission réussie."
+
+#: src/class-deco-mistape-abstract.php:94
+msgid "If you have found a spelling error, please, notify us by selecting that text and pressing <em>Ctrl+Enter</em>."
+msgstr "Si vous avez trouvé une faute d’orthographe, veuillez nous en informer en sélectionnant le texte en question et en appuyant sur <em>Ctrl + Entrée</em> ."
+
+#: src/class-deco-mistape-admin.php:78
+msgid "Custom text"
+msgstr "Personnaliser le texte"
+
+#: src/class-deco-mistape-admin.php:75
+msgid "automatically translated to supported languages"
+msgstr "traduit automatiquement dans les langues prises en charge"
+
+#: src/class-deco-mistape-admin.php:74
+msgid "Default"
+msgstr "Par défaut"
+
+#: src/class-deco-mistape-admin.php:68
+msgid "Image"
+msgstr "Image"
+
+#: src/class-deco-mistape-admin.php:67
+msgid "Text"
+msgstr "Text"
+
+#: src/class-deco-mistape-admin.php:63
+msgid "Specify other"
+msgstr "Autre, précisez&nbsp;:"
+
+#: src/class-deco-mistape-admin.php:62
+msgid "Editor"
+msgstr "Éditeur"
+
+#: src/class-deco-mistape-admin.php:61
+msgid "Administrator"
+msgstr "Administrateur"

@@ -1,0 +1,387 @@
+# Translation of Plugins - Mistape - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Mistape - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-15 08:32:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Mistape - Stable (latest release)\n"
+
+#: src/class-deco-mistape-admin.php:205
+msgid "Detailed mistake statistics is available in Mistape PRO"
+msgstr "Λεπτομερή στατιστικά είναι διαθέσιμα στο Mistape PRO"
+
+#: src/class-deco-mistape-admin.php:212
+msgid "Buy PRO for just"
+msgstr "Αγορά PRO για μόνο"
+
+#: src/class-deco-mistape-admin.php:373
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: src/class-deco-mistape-admin.php:374
+msgid "Here you can enable Mistape.com link in an icon"
+msgstr "Εδώ μπορείτε να ενεργοποιήσετε το link στο Mistape.com σε ένα εικονίδιο"
+
+#: src/class-deco-mistape-admin.php:432
+msgid "no icon"
+msgstr "χωρίς εικονίδιο"
+
+#: src/class-deco-mistape-admin.php:918
+msgid "Vote!"
+msgstr "Ψηφίστε!"
+
+#: src/class-deco-mistape-admin.php:253
+msgid "Color scheme"
+msgstr "Χρωματικός συνδυασμός"
+
+#: src/class-deco-mistape-admin.php:477
+msgid "default color"
+msgstr "προεπιλεγμένο χρώμα"
+
+#: src/class-deco-mistape-admin.php:249
+msgid "Icon before the caption text"
+msgstr "Εικονίδιο πριν τη λεζάντα"
+
+#: src/class-deco-mistape-admin.php:198
+msgid "Reports received up to date:"
+msgstr "Εισερχόμενες αναφορές έως την ημερομηνία:"
+
+#: src/class-deco-mistape-ajax.php:94
+msgid "Our editors already got notified about this error. Thanks for your care."
+msgstr "Οι αρθρογράφοι μας έχουν ήδη ειδοποιηθεί για αυτό το λάθος. Σας ευχαριστούμε."
+
+#: src/class-deco-mistape-admin.php:156
+msgctxt "deco.agency's products"
+msgid "%s's products"
+msgstr "προϊόντα της %s"
+
+#: src/class-deco-mistape-admin.php:192
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+#: src/class-deco-mistape-admin.php:149
+msgctxt "please rate our plugin"
+msgid "rate"
+msgstr "βαθμολογήστε"
+
+#: src/class-deco-mistape-admin.php:147
+msgctxt "%s = rate"
+msgid "Please %s our plugin"
+msgstr "Παρακαλούμε  %s το πρόσθετό μας"
+
+#: src/class-deco-mistape-admin.php:860
+msgid "Allows to override email sending logic."
+msgstr "Επιτρέπει την αντικατάσταση της λογικής αποστολής email."
+
+#: src/class-deco-mistape-admin.php:317
+msgctxt "select option, shown when no users with editor role are present"
+msgid "no editors found"
+msgstr "δε βρέθηκαν editors"
+
+#: src/class-deco-mistape-admin.php:363
+msgid "When enabled, Mistape Ctrl+Enter listener works on all pages, not only on enabled post types."
+msgstr "Όταν ενεργοποιηθεί, η συντόμευση Ctrl+Enter του Mistape λειτουργεί σε όλες τις σελίδες, και όχι μόνο στα επιλεγμένα post types."
+
+#: src/class-deco-mistape-ajax.php:82
+msgid "No text selected."
+msgstr "Δεν έχετε επιλέξει κείμενο."
+
+#: src/class-deco-mistape-ajax.php:112
+msgid "Email service returned an error while trying to deliver your report."
+msgstr "Η υπηρεσία email παρουσίασε ένα σφάλμα κατά τη διάρκεια αποστολής της αναφοράς σας."
+
+#: src/class-deco-mistape-admin.php:69
+msgid "Do not show caption at the bottom of post"
+msgstr "Να μην εμφανίζεται λεζάντα κάτω από το άρθρο"
+
+#: src/class-deco-mistape-admin.php:513
+msgid "Copy settings from main site when new blog is created"
+msgstr "Αντιγραφή ρυθμίσεων από το κεντρικό ιστότοπο, όταν δημιουργείται νέο ιστολόγιο"
+
+#: src/class-deco-mistape-admin.php:898
+msgid "Allows to add custom logic for whether to output Mistape to front end or not."
+msgstr "Επιτρέπει την εισαγωγή προσαρμοσμένη λογικής για το πότε θα εμφανίζεται το Mistape και πότε όχι."
+
+#: src/class-deco-mistape-abstract.php:134
+msgid "Send"
+msgstr "Αποστολή"
+
+#: src/class-deco-mistape-ajax.php:93 src/class-deco-mistape-ajax.php:106
+#: src/class-deco-mistape-abstract.php:124
+msgid "Thanks!"
+msgstr "Ευχαριστούμε!"
+
+#: src/class-deco-mistape-admin.php:68
+msgid "Image"
+msgstr "Εικόνα"
+
+#: src/class-deco-mistape-admin.php:67
+msgid "Text"
+msgstr "Κείμενο"
+
+#: src/class-deco-mistape-admin.php:62
+msgid "Editor"
+msgstr "Editor"
+
+#: src/class-deco-mistape-admin.php:133
+msgid "Help"
+msgstr "Βοήθεια"
+
+#. Author of the plugin
+msgid "deco.agency"
+msgstr "deco.agency"
+
+#. Author URI of the plugin
+msgid "https://deco.agency"
+msgstr "https://deco.agency"
+
+#. Plugin Name of the plugin
+msgid "Mistape"
+msgstr "Mistape"
+
+#. Description of the plugin
+msgid "Mistape allows visitors to effortlessly notify site staff about found spelling errors."
+msgstr "Το Mistape επιτρέπει στους επισκέπτες την εύκολη αναφορά ορθογραφικών λαθών στο προσωπικό της ιστοσελίδας."
+
+#: src/class-deco-mistape-abstract.php:126
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: src/class-deco-mistape-abstract.php:133
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: src/class-deco-mistape-abstract.php:130
+msgid "Spelling error report"
+msgstr "Αναφορά ορθογραφικού λάθους"
+
+#: src/class-deco-mistape-ajax.php:73 src/class-deco-mistape-ajax.php:81
+#: src/class-deco-mistape-ajax.php:111
+msgid "Report not sent"
+msgstr "Η αναφορά δεν εστάλη"
+
+#: src/class-deco-mistape-admin.php:819
+msgid "PHP code example:"
+msgstr "Παράδειγμα κώδικα PHP:"
+
+#: src/class-deco-mistape-ajax.php:213
+msgid "Comment:"
+msgstr "Σχόλιο:"
+
+#: src/class-deco-mistape-admin.php:245
+msgid "Caption format"
+msgstr "Μορφή λεζάντας"
+
+#: src/class-deco-mistape-admin.php:74
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: src/class-deco-mistape-abstract.php:138
+msgid "Your comment (optional)"
+msgstr "Το σχόλιό σας (προαιρετικό)"
+
+#: src/class-deco-mistape-abstract.php:131
+msgid "The following text will be sent to our editors:"
+msgstr "Το ακόλουθο κείμενο θα αποσταλεί στους αρθρογράφους μας:"
+
+#: src/class-deco-mistape-ajax.php:107 src/class-deco-mistape-abstract.php:125
+msgid "Our editors are notified."
+msgstr "Οι αρθρογράφοι μας ειδοποιήθηκαν."
+
+#: src/class-deco-mistape-ajax.php:209
+msgid "Reported text"
+msgstr "Λανθασμένο κείμενο"
+
+#: src/class-deco-mistape-ajax.php:206
+msgid "Reported by:"
+msgstr "Αναφορά από:"
+
+#: src/class-deco-mistape-ajax.php:200
+msgid "Post edit URL:"
+msgstr "URL επεξεργασίας άρθρου:"
+
+#: src/class-deco-mistape-ajax.php:194
+msgctxt "[Email] Reported from page: unknown"
+msgid "unknown"
+msgstr "άγνωστο"
+
+#: src/class-deco-mistape-ajax.php:193
+msgid "Reported from page:"
+msgstr "Αναφέρθηκε από τη σελίδα:"
+
+#: src/class-deco-mistape-ajax.php:224
+msgid "Spelling error reported"
+msgstr "Λανθασμένο κείμενο"
+
+#: src/class-deco-mistape-ajax.php:74
+msgid "Spam protection: too many reports from your IP address."
+msgstr "Προστασία spam: έχουν σταλεί πολλές αναφορές από την IP σας."
+
+#: src/class-deco-mistape-admin.php:815
+msgid "Shortcode usage example:"
+msgstr "Παράδειγμα χρήσης shortcode:"
+
+#: src/class-deco-mistape-admin.php:866
+msgid "Allows to change email recipient."
+msgstr "Επιτρέπει την αλλαγή των παραληπτών email."
+
+#: src/class-deco-mistape-admin.php:873
+msgid "Allows to change email subject."
+msgstr "Επιτρέπει την αλλαγή του θέματος του email."
+
+#: src/class-deco-mistape-admin.php:880
+msgid "Allows to modify email message to send."
+msgstr "Επιτρέπει την προσαρμογή του μηνύματος που θα αποσταλεί μέσω email."
+
+#: src/class-deco-mistape-admin.php:853
+msgid "Allows to modify the modal dialog HTML before output."
+msgstr "Επιτρέπει την προσαρμογή της HTML του αναδυόμενου παραθύρου πριν την εκτύπωση."
+
+#: src/class-deco-mistape-admin.php:811
+msgid "override image URL"
+msgstr "αντικατάσταση URL εικόνας"
+
+#: src/class-deco-mistape-admin.php:640
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: src/class-deco-mistape-admin.php:827
+msgid "Hooks"
+msgstr "Hooks"
+
+#: src/class-deco-mistape-admin.php:61
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+#: src/class-deco-mistape-admin.php:63
+msgid "Specify other"
+msgstr "Ορίστε άλλο"
+
+#: src/class-deco-mistape-admin.php:243 src/class-deco-mistape-admin.php:805
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: src/class-deco-mistape-admin.php:241
+msgid "Post types"
+msgstr "Post types"
+
+#: src/class-deco-mistape-admin.php:846
+msgid "Allows to modify modal dialog strings (preferred over HTML filter)."
+msgstr "Επιτρέπει την προσαρμογή των κειμένων του αναδυόμενου παραθύρου (προτιμάται αντί του φίλτρου HTML)."
+
+#: src/class-deco-mistape-admin.php:892
+msgid "Allows to modify global options array during initialization."
+msgstr "Επιτρέπει την προσαρμογή του πίνακα γενικών ρυθμίσεων κατά τη διάρκεια της αρχικοποίησης."
+
+#: src/class-deco-mistape-admin.php:810
+msgid "override caption text"
+msgstr "αντικατάσταση κειμένου λεζάντας"
+
+#: src/class-deco-mistape-admin.php:813
+msgid "When no parameters specified, general configuration is used."
+msgstr "Αν δεν προσδιοριστούν παράμετροι, χρησιμοποιούνται οι γενικές ρυθμίσεις."
+
+#: src/class-deco-mistape-admin.php:814
+msgid "If image url is specified, format parameter can be omitted."
+msgstr "Αν οριστεί URL εικόνας, η παράμετρος format μπορεί να παραβλεφθεί."
+
+#: src/class-deco-mistape-admin.php:501
+msgid "Preview dialog"
+msgstr "Παράθυρο προεπισκόπησης"
+
+#: src/class-deco-mistape-admin.php:563
+msgid "ERROR: You entered invalid email address: %s"
+msgstr "ΣΦΑΛΜΑ: Έχετε εισάγει λανθασμένη διεύθυνση email: %s"
+
+#: src/class-deco-mistape-admin.php:574
+msgid "ERROR: You didn't select valid email recipient."
+msgstr "ΣΦΑΛΜΑ: Δεν έχετε επιλέξει σωτό παραλήπτη email."
+
+#: src/class-deco-mistape-admin.php:598
+msgid "ERROR: You didn't enter caption image URL."
+msgstr "ΣΦΑΛΜΑ: Δεν έχετε εισάγει URL εικονιδίου λεζάντας."
+
+#: src/class-deco-mistape-admin.php:749
+msgid "<strong>Mistape</strong> settings notice will be dismissed after saving changes."
+msgstr "Η ειδοποίηση ρυθμίσεων του <strong>Mistape</strong> θα παραβλεφθεί μετά την αποθήκευση των αλλαγών."
+
+#: src/class-deco-mistape-admin.php:752
+msgid "<strong>Mistape</strong> must now be <a href=\"%s\">configured</a> before use."
+msgstr "Το <strong>Mistape</strong> πρέπει να <a href=\"%s\">ρυθμιστεί </a> πριν τη χρήση."
+
+#: src/class-deco-mistape-admin.php:806
+msgid "Optional shortcode parameters are:"
+msgstr "Οι προαιρετικές παράμετροι του shortcode είναι:"
+
+#: src/class-deco-mistape-admin.php:808
+msgid "can be 'text' or 'image'"
+msgstr "μπορεί να είναι 'text' ή 'image'"
+
+#: src/class-deco-mistape-admin.php:86
+msgid "Preview and comment field"
+msgstr "Προεπισκόπηση και πεδίο για σχόλιο"
+
+#: src/class-deco-mistape-admin.php:130
+msgid "Configuration"
+msgstr "Ρυθμίσεις"
+
+#: src/class-deco-mistape-admin.php:75
+msgid "automatically translated to supported languages"
+msgstr "μεταφράζεται αυτόματα στις υποστηριζόμενες γλώσσες"
+
+#: src/class-deco-mistape-admin.php:78
+msgid "Custom text"
+msgstr "Προσαρμοσμένο κείμενο"
+
+#: src/class-deco-mistape-admin.php:84
+msgid "Just notify of successful submission"
+msgstr "Μόνο ειδοποίηση για επιτυχής αποστολή"
+
+#: src/class-deco-mistape-admin.php:85
+msgid "Show preview of reported text and ask confirmation"
+msgstr "Εμφάνιση προεπισκόπησης του λανθασμένου κειμένου και ερώτηση για επιβεβαίωση"
+
+#: src/class-deco-mistape-admin.php:239
+msgid "Email recipient"
+msgstr "Παραλήπτης email"
+
+#: src/class-deco-mistape-admin.php:393
+msgid "Enter the full image URL starting with http://"
+msgstr "Εισάγετε ολόκληρο το URL της εικόνας να  ξεκινάει με http://"
+
+#: src/class-deco-mistape-admin.php:362
+msgid "Usage examples are in Help section."
+msgstr "Παραδείγματα χρήσης υπάρχουν στην ενότητα Βοήθεια."
+
+#: src/class-deco-mistape-admin.php:348
+msgid "\"Press Ctrl+Enter&hellip;\" captions will be displayed at the bottom of selected post types."
+msgstr "Η λεζάντα \"Πατήστε Ctrl+Enter&hellip;\" θα φαίνεται κάτω από τα επιλεγμένα άρθρα."
+
+#: src/class-deco-mistape-admin.php:255
+msgid "Dialog mode"
+msgstr "Λειτουργία αναδυόμενου παραθύρου"
+
+#: src/class-deco-mistape-admin.php:324
+msgid "separate multiple recipients with commas"
+msgstr "διαχωρίστε τους πολλαπλούς αποδέκτες με κόμμα"
+
+#: src/class-deco-mistape-admin.php:247
+msgid "Caption text mode"
+msgstr "Είδος κειμένου λεζάντας"
+
+#: src/class-deco-mistape-admin.php:329
+msgid "If post ID is determined, notify post author instead"
+msgstr "Αν προσδιοριστεί το post Id, ειδοποίηση του συγγραφέα του άρθρου"
+
+#: src/class-deco-mistape-admin.php:833
+msgid "Allows to modify caption text globally (preferred over HTML filter)."
+msgstr "Επιτρέπει την προσαρμογή του κειμένου λεζάντας (προτιμάται αντί του φίλτρου HTML)."
+
+#: src/class-deco-mistape-admin.php:359
+msgid "Register <code>[mistape]</code> shortcode."
+msgstr "Εγγραφή του shortcode <code>[mistape]</code>."

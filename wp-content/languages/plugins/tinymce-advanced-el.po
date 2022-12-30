@@ -1,0 +1,220 @@
+# Translation of Plugins - TinyMCE Advanced - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - TinyMCE Advanced - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-11 11:40:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - TinyMCE Advanced - Stable (latest release)\n"
+
+#: tadv_admin.php:383
+msgid "(this will replace the default text color popup in WP 5.4 and newer)"
+msgstr "(Αυτό θα αντικαταστήσει το προεπιλεγμένο αναδυόμενο παράθυρο χρώματος κειμένου στο WP 5.4 και νεότερα)"
+
+#: tadv_admin.php:795
+msgid "Add Classic Paragraph block"
+msgstr "Προσθήκη μπλοκ κλασικής παραγράφου"
+
+#: tadv_admin.php:890
+msgid "Advanced options for tables"
+msgstr "Προχωρημένες ρυθμίσεις για πίνακες"
+
+#: tinymce-advanced.php:900
+msgid "Clear formatting"
+msgstr "Αφαίρεση μορφοποίησης"
+
+#: tadv_admin.php:51
+msgid "Import settings"
+msgstr "Εισαγωγή Ρυθμίσεων"
+
+#: tadv_admin.php:308
+msgid "(shown in the sidebar)"
+msgstr "(φαίνεται στην πλαϊνή στήλη)"
+
+#: tinymce-advanced.php:899 tadv_admin.php:312
+msgid "Formatting"
+msgstr "Μορφοποίηση"
+
+#: tadv_admin.php:392 tadv_admin.php:405
+msgid "No"
+msgstr "Όχι"
+
+#: tinymce-advanced.php:902
+msgid "Subscript"
+msgstr "Δείκτης"
+
+#: tinymce-advanced.php:901
+msgid "Superscript"
+msgstr "Εκθέτης"
+
+#: tinymce-advanced.php:908
+msgid "Text Background Color"
+msgstr "Χρώμα φόντου κειμένου"
+
+#: tinymce-advanced.php:906
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: tadv_admin.php:366
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+#: tinymce-advanced.php:904
+msgid "Underline"
+msgstr "Υπογράμμιση"
+
+#: tadv_admin.php:388 tadv_admin.php:401
+msgid "Yes"
+msgstr "Ναι"
+
+#: tinymce-advanced.php:868
+msgid "Classic Paragraph"
+msgstr "Κλασική παράγραφος"
+
+#: tadv_admin.php:880
+msgid "Disabled:"
+msgstr "Απενεργοποιημένο:"
+
+#: tadv_admin.php:784
+msgid "Replace the size setting available for fonts with: %s."
+msgstr "Αντικατάσταση της ρύθμισης μεγέθους για τις γραμματοσειρές με: %s."
+
+#: tadv_admin.php:881
+msgid "A stylesheet file named editor-style.css was not added by your theme."
+msgstr "Δεν έχει προστεθεί αρχείο φύλλου στυλ με όνομα editor-style.css από το θέμα σας."
+
+#: tadv_admin.php:871
+msgid "Create CSS classes menu"
+msgstr "Δημιουργία μενού CSS κλάσεων"
+
+#: tadv_admin.php:961
+msgid "Settings import and export"
+msgstr "Εισαγωγή και εξαγωγή ρυθμίσεων"
+
+#: tinymce-advanced.php:1311
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: tadv_admin.php:783
+msgid "Font sizes"
+msgstr "Μεγέθη γραμματοσειράς"
+
+#: tadv_admin.php:765
+msgid "Enable more list options: upper or lower case letters for ordered lists, disk or square for unordered lists, etc."
+msgstr "Ενεργοποίηση περισσότερων επιλογών λιστών: κεφαλαία ή πεζά γράμματα για αριθμημένες λίστες, δίσκο ή τετράγωνο για μη αριθμημένες λίστες, κτλ."
+
+#: tadv_admin.php:772
+msgid "Replace the browser context (right-click) menu."
+msgstr "Αντικατάσταση του μενού περιβάλλοντος (δεξί κλικ) του περιηγητή."
+
+#: tadv_admin.php:777
+msgid "Alternative link dialog"
+msgstr "Εναλλακτικός διάλογος συνδέσμου"
+
+#: tadv_admin.php:778
+msgid "Open the TinyMCE link dialog when using the link button on the toolbar or the link menu item."
+msgstr "Άνοιγμα του διαλόγου συνδέσμου του TinyMCE όταν γίνεται χρήση του κουμπιού συνδέσμου στην γραμμή εργαλείων ή του στοιχείου σύνδεσμος από το μενού."
+
+#: tadv_admin.php:753
+msgid "Options"
+msgstr "Επιλογές"
+
+#: tadv_admin.php:138 tadv_admin.php:998
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: tadv_admin.php:38
+msgid "Default settings restored."
+msgstr "Έγινε επαναφορά στις προεπιλεγμένες ρυθμίσεις."
+
+#: tadv_admin.php:78
+msgid "Importing of settings failed."
+msgstr "Η εισαγωγή των ρυθμίσεων απέτυχε."
+
+#: tadv_admin.php:707
+msgid "Unused Buttons"
+msgstr "Μη χρησιμοποιούμενα κουμπιά"
+
+#: tadv_admin.php:959
+msgid "Administration"
+msgstr "Διαχείριση"
+
+#: tadv_admin.php:963
+msgid "The settings are exported as a JSON encoded file."
+msgstr "Οι ρυθμίσεις εξάγονται ως κωδικοποιημένη συμβολοσειρά JSON."
+
+#: tadv_admin.php:850
+msgid "However it may behave unexpectedly in rare cases, so test it thoroughly before enabling it permanently."
+msgstr "Ωστόσο μπορεί να συμπεριφερθεί απροσδόκητα σε μερικές περιπτώσεις, γιαυτό δοκιμάστε το προσεκτικά πριν το ενεργοποιήσετε μόνιμα."
+
+#: tadv_admin.php:1003
+msgid "The [Toolbar toggle] button shows or hides the second, third, and forth button rows. It will only work when it is in the first row and there are buttons in the second row."
+msgstr "Το κουμπί [Εναλλαγή γραμμής εργαλείων] εμφανίζει ή κρύβει την δεύτερη, τρίτη, και τέταρτη σειρά κουμπιών. Θα λειτουργήσει μόνο όταν είναι στην πρώτη σειρά και υπάρχουν κουμπιά στην δεύτερη σειρά."
+
+#: tinymce-advanced.php:378
+msgid "Please upgrade your WordPress installation or download an <a href=\"%s\">older version of the plugin</a>."
+msgstr "Παρακαλώ αναβαθμίστε την εγκατάσταση WordPress σας ή κάντε λήψη μια <a href=\"%s\">παλιότερη έκδοση του πρόσθετου</a>."
+
+#: tadv_admin.php:45
+msgid "TinyMCE Advanced Settings Import"
+msgstr "Εισαγωγή Ρυθμίσεων του TinyMCE Advanced"
+
+#: tadv_admin.php:59
+msgid "Verify"
+msgstr "Επικύρωση"
+
+#: tadv_admin.php:126
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: tadv_admin.php:969
+msgid "Import Settings"
+msgstr "Εισαγωγή Ρυθμίσεων"
+
+#: tadv_admin.php:873
+msgid "Load the CSS classes used in editor-style.css and replace the Formats menu."
+msgstr "Φόρτωση των κλάσεων CSS που χρησιμοποιούνται στο editor-style.css και αντικατάσταση του μενού Μορφές."
+
+#: tadv_admin.php:792
+msgid "Advanced Options"
+msgstr "Προχωρημένες Ρυθμίσεις"
+
+#: tadv_admin.php:771
+msgid "Context Menu"
+msgstr "Μενού Περιβάλλοντος"
+
+#: tadv_admin.php:108
+msgid "ERROR: All toolbars are empty. Default settings loaded."
+msgstr "ΣΦΑΛΜΑ: Όλες οι γραμμές εργαλείων είναι άδειες. Φορτώθηκαν οι προεπιλεγμένες ρυθμίσεις."
+
+#: tadv_admin.php:763
+msgid "List Style Options"
+msgstr "Επιλογές Στυλ Λιστών"
+
+#: tadv_admin.php:968
+msgid "Export Settings"
+msgstr "Εξαγωγή Ρυθμίσεων"
+
+#: tadv_admin.php:997
+msgid "Restore Default Settings"
+msgstr "Επαναφορά προεπιλεγμένων ρυθμίσεων"
+
+#: tadv_admin.php:119
+msgid "Editor Settings"
+msgstr "Ρυθμίσεις Κειμενογράφου"
+
+#: tadv_admin.php:65
+msgid "Back to Editor Settings"
+msgstr "Επιστροφή στις Ρυθμίσεις Κειμενογράφου"
+
+#: tinymce-advanced.php:370
+msgid "TinyMCE Advanced requires WordPress version %1$s or newer. It appears that you are running %2$s. This can make the editor unstable."
+msgstr "Το TinyMCE Advanced απαιτεί έκδοση WordPress %1$s ή νεότερη. Φαίνεται πως τρέχετε την %2$s. Αυτό μπορεί να κάνει τον κειμενογράφο ασταθή."
+
+#: tadv_admin.php:590
+msgid "Enable the editor menu."
+msgstr "Ενεργοποίηση μενού του κειμενογράφου."

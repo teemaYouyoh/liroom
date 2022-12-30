@@ -1,0 +1,806 @@
+# Translation of Themes - Codilight Lite in Danish
+# This file is distributed under the same license as the Themes - Codilight Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-28 16:09:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - Codilight Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Codilight Lite"
+msgstr "Codilight Lite"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installationer er afsluttede."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installeret uden problemer."
+
+#: inc/tgm.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationsprocessen er gået i gang. Denne proces kan tage lidt tid hos nogle udbydere, så vær tålmodig."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer og aktiverer plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installationer og aktiveringer er afsluttet."
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Hide Details"
+msgstr "Skjul detaljer"
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installeret og aktiveret uden problemer."
+
+#: inc/tgm.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installations- og aktiveringsprocessen går i gang. Denne proces kan tage lidt tid hos nogle udbydere, så vær tålmodig."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3503
+msgid "The installation of %1$s failed."
+msgstr "installationen af %1$s mislykkedes."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "En fejl opstod under installationen af %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Opdaterer plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3158
+msgid "Plugin activation failed."
+msgstr "Pluginaktivering mislykkedes."
+
+#: inc/tgm.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ingen plugins er tilgængelige til at blive aktiveret på nuværende tidspunkt."
+
+#: inc/tgm.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ingen plugins var valgt til at blive aktiveret. Ingen handling foretaget."
+
+#: inc/tgm.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ingen plugins er tilgængelige til at blive opdateret på nuværende tidspunkt."
+
+#: inc/tgm.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ingen plugins er tilgængelige til at blive installeret på nuværende tidspunkt. "
+
+#: inc/tgm.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ingen plugins var valgt til at blive opdateret. Ingen handling foretaget. "
+
+#: inc/tgm.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ingen plugins var valgt til at blive installeret. Ingen handling foretaget. "
+
+#: inc/tgm.php:2726
+msgid "Activate"
+msgstr "Aktiver"
+
+#: inc/tgm.php:2723
+msgid "Update"
+msgstr "Opdater"
+
+#: inc/tgm.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: inc/tgm.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Opgraderingsbesked fra pluginforfatteren:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2614
+msgid "Activate %2$s"
+msgstr "Aktiver %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2608
+msgid "Update %2$s"
+msgstr "Opdater %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2603
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: inc/tgm.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgm.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: inc/tgm.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgm.php:2548
+msgid "Source"
+msgstr "Kilde"
+
+#: inc/tgm.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Ingen plugins at installere, opdatere eller aktivere."
+
+#: inc/tgm.php:2510
+msgid "Available version:"
+msgstr "Tilgængelig version:"
+
+#: inc/tgm.php:2498
+msgid "Minimum required version:"
+msgstr "Version der er krævet som minimum:"
+
+#: inc/tgm.php:2490
+msgid "Installed version:"
+msgstr "Installeret version:"
+
+#: inc/tgm.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ubekendt"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Til at aktivere <span class=\"count\">(%s)</span>"
+msgstr[1] "Til at aktivere <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Opdatering tilgængelig <span class=\"count\">(%s)</span>"
+msgstr[1] "Opdateringer tilgængelige <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Til at installere <span class=\"count\">(%s)</span>"
+msgstr[1] "Til at installere <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm.php:2333
+msgid "Update recommended"
+msgstr "Opdatering anbefalet"
+
+#: inc/tgm.php:2330
+msgid "Requires Update"
+msgstr "Kræver opdatering"
+
+#: inc/tgm.php:2327
+msgid "Required Update not Available"
+msgstr "Krævede opdatering er ikke tilgængelig"
+
+#: inc/tgm.php:2321
+msgid "Active"
+msgstr "Aktiv"
+
+#: inc/tgm.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installeret, men ikke aktiveret"
+
+#: inc/tgm.php:2315
+msgid "Not Installed"
+msgstr "Ikke installeret"
+
+#: inc/tgm.php:2298
+msgid "Pre-Packaged"
+msgstr "Færdigpakket"
+
+#: inc/tgm.php:2295
+msgid "External Source"
+msgstr "Ekstern kilde"
+
+#: inc/tgm.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress repositoriet"
+
+#: inc/tgm.php:2276
+msgid "Recommended"
+msgstr "Anbefalet"
+
+#: inc/tgm.php:2273
+msgid "Required"
+msgstr "Krævet"
+
+#. translators: %s: version number
+#: inc/tgm.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm.php:1121 inc/tgm.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "og"
+
+#: inc/tgm.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Den fjerne pluginpakke indeholder mere end en fil, men filerne er ikke samlet i en mappe."
+
+#: inc/tgm.php:934 inc/tgm.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Kontakt venligst pluginudbyderen og bed dem pakke deres plugin i henhold til WordPress' retningslinjer."
+
+#: inc/tgm.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Den fjerne pluginpakke indeholder ikke en mappe med det ønskede kortlink og det lykkedes derfor ikke at omdøbe den."
+
+#: inc/tgm.php:523
+msgid "Update Required"
+msgstr "Opdatering krævet"
+
+#: inc/tgm.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Dette plugin skal opdateres for at være foreneligt med dit tema."
+
+#: inc/tgm.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakt venligst administratoren af dette websted for at få hjælp."
+
+#: inc/tgm.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Der er et eller flere anbefalede plugins at installere, opdatere eller aktivere. "
+
+#: inc/tgm.php:395
+msgid "Dismiss this notice"
+msgstr "Fjern denne besked."
+
+#. translators: 1: dashboard link.
+#: inc/tgm.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins er installeret og aktiveret uden problemer. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin blev ikke aktiveret. En nyere version af %s er krævet til dette tema. Opdater venligst pluginet."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen handling foretaget. Pluginet %1$s var allerede aktivt."
+
+#: inc/tgm.php:388 inc/tgm.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Dette plugin var allerede aktiveret uden problemer:"
+
+#: inc/tgm.php:387 inc/tgm.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin aktiveret uden problemer."
+
+#: inc/tgm.php:386 inc/tgm.php:827 inc/tgm.php:2533 inc/tgm.php:3580
+msgid "Return to the Dashboard"
+msgstr "Tilbage til kontrolpanelet"
+
+#: inc/tgm.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Tilbage til krævede plugins installationsværktøjet."
+
+#: inc/tgm.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begynd aktivering af plugin"
+msgstr[1] "Begynd aktivering af plugins"
+
+#: inc/tgm.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begynd opdatering af plugin"
+msgstr[1] "Begynd opdatering af plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begynd installering af plugin"
+msgstr[1] "Begynd installering af plugins"
+
+#: inc/tgm.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Noget gik galt med plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:332
+msgid "Updating Plugin: %s"
+msgstr "Opdaterer plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installerer plugin: %s"
+
+#: inc/tgm.php:328
+msgid "Install Plugins"
+msgstr "Installerer plugins"
+
+#: inc/tgm.php:327
+msgid "Install Required Plugins"
+msgstr "Installer krævede plugins "
+
+#: inc/dashboard.php:114
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes demo importeringsværktøj"
+
+#: inc/dashboard.php:99
+msgid "Active Now"
+msgstr "Aktive nu"
+
+#: inc/dashboard.php:78
+msgid "Install Now"
+msgstr "Installer nu"
+
+#: inc/dashboard.php:30
+msgid "One Click Demo Import"
+msgstr "Et-klik demo importering"
+
+#: inc/customizer.php:82 inc/customizer.php:96
+msgid "List"
+msgstr "Liste"
+
+#: inc/customizer.php:83 inc/customizer.php:97
+msgid "Grid"
+msgstr "Gitter"
+
+#: inc/dashboard.php:112
+msgid "Hey, you will need to install and activate the %1$s plugin first."
+msgstr "Hey, du skal installere og aktivere %1$s pluginet først."
+
+#: inc/dashboard.php:55
+msgid "Go To %s Support Forum"
+msgstr "Gå til %s supportforummet"
+
+#: inc/customizer.php:111
+msgid "Check out <a target=\"_blank\" href=\"https://www.famethemes.com/themes/codilight-lite?utm_source=codilight_lite_customizer&utm_medium=text_link&utm_campaign=codilight_lite#compare\">Codilight Premium</a> version for full control over site color styling!"
+msgstr "Tjek <a target=\"_blank\" href=\"https://www.famethemes.com/themes/codilight-lite?utm_source=codilight_lite_customizer&utm_medium=text_link&utm_campaign=codilight_lite#compare\">Codilight Premium</a> versionen hvis du vil have fuldstændig kontrol over webstedet farvestil!"
+
+#: inc/customizer.php:69
+msgid "Right Sidebar"
+msgstr "Højre sidebar"
+
+#: inc/customizer.php:68
+msgid "Left Sidebar"
+msgstr "Venstre sidebar"
+
+#: archive.php:55 archive.php:75 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:41
+msgid "Page"
+msgstr "Side"
+
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Webstedslayout"
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:28
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Der ser ud til, at vi ikke kan finde det, du søger. Måske vil en søgning hjælpe."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet matchede din søgning. Prøv igen med nogle andre søgeord."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: inc/template-tags.php:161
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse."
+
+#: inc/template-tags.php:156
+msgid "Edit"
+msgstr "Rediger"
+
+#: inc/template-tags.php:155
+msgid "Reply"
+msgstr "Svar"
+
+#: inc/template-tags.php:147
+msgid "Post author"
+msgstr "Indlægsforfatter"
+
+#: inc/template-tags.php:131
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: inc/template-tags.php:131
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+#: inc/dashboard.php:52
+msgid "Having Trouble, Need Support?"
+msgstr "Har du problemer? Brug for support?"
+
+#: inc/dashboard.php:46
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Brug for hjælp til opsætning og indstilling af %s? Så se vores vejledninger. "
+
+#: inc/dashboard.php:45
+msgid "Theme Documentation"
+msgstr "Temadokumentation"
+
+#: inc/dashboard.php:41
+msgid "Start Customize"
+msgstr "Start tilpasning"
+
+#: inc/dashboard.php:39
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s bruger tematilpasseren til alle temaindstillinger. Klik \"Tilpas\" for at starte tilpasningen af dit websted."
+
+#: inc/dashboard.php:38
+msgid "Theme Customizer"
+msgstr "Tematilpasser"
+
+#: header.php:42
+msgid "Search"
+msgstr "Søg"
+
+#: header.php:32
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Spring til indhold"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.8)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/dashboard.php:27
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#: inc/dashboard.php:61
+msgid "Theme Screenshot"
+msgstr "Tema skærmbillede"
+
+#: inc/dashboard.php:25
+msgid "Welcome to %1s - Version %2s"
+msgstr "Velkommen til %1s - Version %2s"
+
+#: inc/dashboard.php:9
+msgid "%s Theme Dashboard"
+msgstr "%s temaets kontrolpanel"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: footer.php:32
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Alle rettigheder forbeholdes."
+
+#: template-parts/content-single.php:51
+msgid "Next article"
+msgstr "Næste artikel"
+
+#: template-parts/content-single.php:45
+msgid "Previous article"
+msgstr "Forrige artikel"
+
+#: inc/widgets/block_1_widget.php:222 inc/widgets/block_2_widget.php:211
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:192
+msgid "Order By:"
+msgstr "Sorter efter:"
+
+#: inc/widgets/block_1_widget.php:219 inc/widgets/block_2_widget.php:208
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:189
+msgid "Ignore Sticky Posts"
+msgstr "Ignorer fastgjorte indlæg"
+
+#: inc/widgets/block_1_widget.php:214 inc/widgets/block_2_widget.php:202
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:184
+msgid "Number of posts to show:"
+msgstr "Antallet af indlæg der skal vises:"
+
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr "Blok kategori:"
+
+#: inc/widgets/block_1_widget.php:193 inc/widgets/block_2_widget.php:189
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:171
+msgid "Widget Title:"
+msgstr "Widget titel:"
+
+#: inc/template-tags.php:72
+msgctxt "post author"
+msgid "by %s"
+msgstr "af %s"
+
+#: functions.php:139
+msgid "Home 4"
+msgstr "Forside 4"
+
+#: functions.php:130
+msgid "Home 3"
+msgstr "Forside 3"
+
+#: functions.php:121
+msgid "Home 2"
+msgstr "Forside 2"
+
+#: functions.php:112
+msgid "Home 1"
+msgstr "Forside 1"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Læs mere %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Translators: If there are characters in your language that are not supported
+#. by merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:184
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "på"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Forside"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Fuldbredde"
+
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr "FT Blok 4"
+
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr "Vis en liste af populære/seneste indlæg til brug i din sidebar."
+
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr "FT Blok 3"
+
+#: inc/widgets/block_2_widget.php:204
+msgid "This widget only show posts has featured image."
+msgstr "Denne widget viser kun indlæg med et Udvalgt billede."
+
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr "FT Blok 2- skyder"
+
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr "Skyder indlægswidget til brug på forsiden."
+
+#: inc/widgets/block_1_widget.php:206 inc/widgets/block_2_widget.php:194
+#: inc/widgets/block_4_widget.php:176
+msgid "Multiselect Categories (all by default):"
+msgstr "Vælg flere kategorier (alle som standard):"
+
+#: inc/widgets/block_1_widget.php:197
+msgid "Posts block layout:"
+msgstr "Indlæg bloklayout:"
+
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr "FT Blok 1- Seneste indlæg"
+
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr "Vis indlæg i liste eller gitter til brug på forsiden."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:153
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:102
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:95
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/template-tags.php:67
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Udgivet i %s"
+
+#: inc/extras.php:91
+msgid "Add a menu"
+msgstr "Tilføj en menu"
+
+#: inc/dashboard.php:53
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr "Support til %s WordPress-temaet sker gennem WordPress gratis tema supportforumet."
+
+#: inc/dashboard.php:48
+msgid "Online Documentation"
+msgstr "Online Dokumentation"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.8)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/dashboard.php:26
+msgid "Codilight Lite is a news magazine style WordPress theme from FameThemes which is a perfect option to create any kind of magazine or blog websites."
+msgstr "Codilight Lite er et WordPress-tema til nyheder i magasinstil fra FameThemes og er et perfekt valg til at skabe en hvilken som helst type magasin- eller blogwebsted."
+
+#: inc/dashboard.php:9
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer.php:99
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr "Kategori, Tag, Forfatter, Arkivside&hellip;"
+
+#: inc/customizer.php:92
+msgid "Archive Page Posts Layout"
+msgstr "Arkivside indlægslayout"
+
+#: inc/customizer.php:78
+msgid "Front Page Posts Layout"
+msgstr "Forside indlægslayout"
+
+#: inc/customizer.php:64
+msgid "Default Sidebar Position"
+msgstr "Standard sidebarposition"
+
+#: inc/customizer.php:43
+msgid "Your site logo"
+msgstr "Dit websteds logo"
+
+#: inc/customizer.php:41
+msgid "Site Logo"
+msgstr "Websteds logo"
+
+#: inc/customizer-controls.php:38
+msgid "Upgrade to <a href=\"#\">Codilight Premium</a> to be able to change the section order and styling!"
+msgstr "Opgrader til <a href=\"#\">Codilight Premium</a> for at kunne ændre sektionsrækkefølgen og design!"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:190
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr "Standard sidebar"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Primære menu"
+
+#: footer.php:34
+msgid "Codilight Theme by %1$s"
+msgstr "Codilight tema af %1$s"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 kommentar"
+msgstr[1] "%1$s kommentarer"
+
+#: archive.php:57 archive.php:77 category.php:57 category.php:77 index.php:62
+#: index.php:82 search.php:43
+msgid "Page %1$s of %2$s"
+msgstr "Side %1$s af %2$s"
+
+#: 404.php:29
+msgid "Latest Posts"
+msgstr "Seneste indlæg"
+
+#: 404.php:24
+msgid "Maybe try a search?"
+msgstr "Prøv måske en søgning?"
+
+#: 404.php:19
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist. "
+msgstr "Beklager, men siden du søger findes ikke."
+
+#: 404.php:18
+msgid "Ooops&hellip; Error 404"
+msgstr "Ups&hellip; fejl 404"
+
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category."
+msgstr "Vis en liste af indlæg baseret på en forælderkategori."
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.famethemes.com/themes/codilight-lite"
+msgstr "http://www.famethemes.com/themes/codilight-lite"

@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: liroom Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-06 21:07+0000\n"
+"PO-Revision-Date: 2018-03-06 22:03+0000\n"
+"Last-Translator: wssinua wssinua <wssinua@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. 1: date, 2: time
+#: inc/template-tags.php:339
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:317
+msgid "(Edit)"
+msgstr ""
+
+#: inc/extras.php:81
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Archive Page Posts Layout"
+msgstr ""
+
+#: inc/template-tags.php:230
+msgid "Behance"
+msgstr ""
+
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr ""
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. %s: Name of current post.
+#: template-parts/content.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr ""
+
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category."
+msgstr ""
+
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr ""
+
+#: inc/widgets/block_5_widget.php:13
+msgid "Display related posts."
+msgstr ""
+
+#: inc/template-tags.php:233
+msgid "Dribbble"
+msgstr ""
+
+#: inc/template-tags.php:342
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgid "Facebook"
+msgstr ""
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr ""
+
+#: inc/template-tags.php:235
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Front Page Posts Layout"
+msgstr ""
+
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr ""
+
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr ""
+
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr ""
+
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr ""
+
+#: inc/widgets/block_5_widget.php:14
+msgid "FT Block 5 - Recent Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/template-tags.php:239
+msgid "Github"
+msgstr ""
+
+#: inc/template-tags.php:226
+msgid "Google+"
+msgstr ""
+
+#: inc/customizer.php:144 inc/customizer.php:158
+msgid "Grid"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.famethemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.famethemes.com/themes/liroom-lite"
+msgstr ""
+
+#: inc/widgets/block_1_widget.php:280 inc/widgets/block_2_widget.php:210
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:212
+#: inc/widgets/block_5_widget.php:282
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: inc/template-tags.php:234
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищите. Возможно, поиск поможет?"
+
+#: inc/customizer.php:129
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/template-tags.php:229
+msgid "Linkedin"
+msgstr ""
+
+#. Name of the theme
+msgid "liroom Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"liroom Lite is a news magazine style WordPress theme from FameThemes which "
+"is a perfect option to create any kind of magazine or blog websites."
+msgstr ""
+
+#: inc/customizer.php:143 inc/customizer.php:157
+msgid "List"
+msgstr ""
+
+#: header.php:63
+msgid "Menu"
+msgstr ""
+
+#: inc/widgets/block_1_widget.php:267 inc/widgets/block_2_widget.php:196
+#: inc/widgets/block_4_widget.php:199 inc/widgets/block_5_widget.php:269
+msgid "Multiselect Categories (all by default):"
+msgstr ""
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/content-single.php:59
+msgid "Next article"
+msgstr "Следующая статья<i class=\"fa fa-angle-right\"></i>"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ой...<span>Ничего не найдено</span>"
+
+#: inc/widgets/block_1_widget.php:275 inc/widgets/block_2_widget.php:204
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:207
+#: inc/widgets/block_5_widget.php:277
+msgid "Number of posts to show:"
+msgstr ""
+
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: inc/widgets/block_1_widget.php:283 inc/widgets/block_2_widget.php:213
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:215
+#: inc/widgets/block_5_widget.php:285
+msgid "Order By:"
+msgstr ""
+
+#: archive-albums.php:70 archive-bands.php:59 archive.php:55 archive.php:75
+#: author.php:56 author.php:76 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:40
+msgid "Page"
+msgstr ""
+
+#: archive.php:57 author.php:58 category.php:57 index.php:62 index.php:82
+#: search.php:42
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: template-parts/content-single.php:29 template-parts/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:317
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:232
+msgid "Pinterest"
+msgstr ""
+
+#: inc/template-tags.php:333
+msgid "Post author"
+msgstr ""
+
+#: inc/template-tags.php:140
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgctxt "post author"
+msgid "Автор: %s"
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:135
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/widgets/block_1_widget.php:258 inc/widgets/block_5_widget.php:260
+msgid "Posts block layout:"
+msgstr ""
+
+#: template-parts/content-single.php:53
+msgid "Previous article"
+msgstr "<i class=\"fa fa-angle-left\"></i>Предыдущая статья"
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/template-tags.php:341
+msgid "Reply"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Site Logo"
+msgstr ""
+
+#: header.php:39
+msgid "Skip to content"
+msgstr ""
+
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но нет ничего, что бы соответствовало вашему поисковому запросу."
+
+#: inc/template-tags.php:236
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/template-tags.php:237
+msgid "Spotify"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgid "Tags"
+msgstr "Тэги:"
+
+#: inc/widgets/block_2_widget.php:206
+msgid "This widget only show posts has featured image."
+msgstr ""
+
+#: inc/template-tags.php:231
+msgid "Tumblr"
+msgstr ""
+
+#: inc/template-tags.php:225
+msgid "Twitter"
+msgstr ""
+
+#: inc/template-tags.php:228
+msgid "Vimeo"
+msgstr ""
+
+#: inc/template-tags.php:238
+msgid "Vine"
+msgstr ""
+
+#: inc/template-tags.php:240
+msgid "VK"
+msgstr ""
+
+#: inc/widgets/block_1_widget.php:254 inc/widgets/block_2_widget.php:191
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:194
+#: inc/widgets/block_5_widget.php:256
+msgid "Widget Title:"
+msgstr ""
+
+#: inc/template-tags.php:347
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Your site logo"
+msgstr ""
+
+#: inc/template-tags.php:227
+msgid "Youtube"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Результаты поиска: %s"
+msgstr ""

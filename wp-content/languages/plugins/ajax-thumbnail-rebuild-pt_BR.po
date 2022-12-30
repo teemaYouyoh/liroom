@@ -1,0 +1,96 @@
+# Translation of Plugins - AJAX Thumbnail Rebuild - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - AJAX Thumbnail Rebuild - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-29 22:10:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - AJAX Thumbnail Rebuild - Stable (latest release)\n"
+
+#: ajax-thumbnail-rebuild.php:143
+msgid "Rebuilding %s of %s (%s)..."
+msgstr "Recriando %s de %s (%s)..."
+
+#. Author URI of the plugin/theme
+msgid "http://breiti.cc"
+msgstr "http://breiti.cc"
+
+#. Author of the plugin/theme
+msgid "junkcoder"
+msgstr "junkcoder"
+
+#. Description of the plugin/theme
+msgid "Rebuild all thumbnails"
+msgstr "Recria todas as miniaturas de imagem"
+
+#. Plugin URI of the plugin/theme
+msgid "http://breiti.cc/wordpress/ajax-thumbnail-rebuild"
+msgstr "http://breiti.cc/wordpress/ajax-thumbnail-rebuild"
+
+#. Plugin Name of the plugin/theme
+msgid "AJAX Thumbnail Rebuild"
+msgstr "AJAX Thumbnail Rebuild"
+
+#: ajax-thumbnail-rebuild.php:230
+msgid "If you find this plugin useful, I'd be happy to read your comments on the %splugin homepage%s. If you experience any problems, feel free to leave a comment too."
+msgstr "Se você achar este plugin útil, ficarei feliz em ler seus comentários na %splugin homepage%s. Se você tiver algum problema, sinta-se livre para deixar um comentário também."
+
+#: ajax-thumbnail-rebuild.php:227
+msgid "Last image"
+msgstr "Última imagem"
+
+#: ajax-thumbnail-rebuild.php:223
+msgid "Rebuild All Thumbnails"
+msgstr "Recriar todas as miniaturas"
+
+#: ajax-thumbnail-rebuild.php:220
+msgid "Note: If you've changed the dimensions of your thumbnails, existing thumbnail images will not be deleted."
+msgstr "Nota: Se você alterou as dimensões de suas miniaturas, as imagens em miniatura existentes não serão excluídas."
+
+#: ajax-thumbnail-rebuild.php:216
+msgid "Only rebuild featured images"
+msgstr "Recriar apenas a Imagem destacada"
+
+#: ajax-thumbnail-rebuild.php:199
+msgid "cropped"
+msgstr "recortado"
+
+#: ajax-thumbnail-rebuild.php:181
+msgid "Toggle all"
+msgstr "Alternar tudo"
+
+#: ajax-thumbnail-rebuild.php:180
+msgid "Select which thumbnails you want to rebuild"
+msgstr "Selecione quais miniaturas você quer recriar"
+
+#: ajax-thumbnail-rebuild.php:131
+msgid "No attachments found."
+msgstr "Nenhum anexo foi encontrado."
+
+#: ajax-thumbnail-rebuild.php:90
+msgid "Ajax Thumbnail Rebuild"
+msgstr "Recrair Miniaturas via AJAX"
+
+#: ajax-thumbnail-rebuild.php:76 ajax-thumbnail-rebuild.php:163
+msgid "Error"
+msgstr "Erro"
+
+#: ajax-thumbnail-rebuild.php:72 ajax-thumbnail-rebuild.php:139
+msgid "Done."
+msgstr "Feito."
+
+#: ajax-thumbnail-rebuild.php:64 ajax-thumbnail-rebuild.php:110
+msgid "Reading attachments..."
+msgstr "Lendo anexos..."
+
+#: ajax-thumbnail-rebuild.php:35
+msgid "Rebuild Thumbnails"
+msgstr "Recriar miniaturas"
+
+#: ajax-thumbnail-rebuild.php:35
+msgid "Rebuild all Thumbnails"
+msgstr "Recriar todas as miniaturas"

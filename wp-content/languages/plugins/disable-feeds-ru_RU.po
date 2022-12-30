@@ -1,0 +1,48 @@
+# Translation of Plugins - Disable Feeds - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Disable Feeds - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-08 14:37:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Disable Feeds - Development (trunk)\n"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/disable-feeds/"
+msgstr "https://wordpress.org/plugins/disable-feeds/"
+
+#. Author URI of the plugin/theme
+msgid "http://rayofsolaris.net/"
+msgstr "http://rayofsolaris.net/"
+
+#. Author of the plugin/theme
+msgid "Samir Shah, BBpress support by Matthew Sigley"
+msgstr "Samir Shah, BBpress support by Matthew Sigley"
+
+#. Plugin Name of the plugin/theme
+msgid "Disable Feeds"
+msgstr "Disable Feeds"
+
+#. Description of the plugin/theme
+msgid "Disable all RSS/Atom feeds on your WordPress site."
+msgstr "Отключение всех лент (фидов) RSS/Atom на вашем сайте на WordPRess."
+
+#: disable-feeds.php:54
+msgid "Issue a Page Not Found (404) error for feed requests"
+msgstr "При запросе ленты показать ошибку (404) Страница не найдена"
+
+#: disable-feeds.php:55
+msgid "Do not disable the <strong>global post feed</strong> and <strong>global comment feed</strong>"
+msgstr "Не отключать <strong>главную ленту записей</strong> и <strong>главную ленту комментариев</strong>"
+
+#: disable-feeds.php:53
+msgid "Redirect feed requests to corresponding HTML content"
+msgstr "Перенаправлять запросы к ленте на соответствующее HTML-содержимое"
+
+#: disable-feeds.php:52
+msgid "The <em>Disable Feeds</em> plugin is active, By default, all feeds are disabled, and all requests for feeds are redirected to the corresponding HTML content. You can tweak this behaviour below."
+msgstr "Плагин <em>Disable Feeds</em> активирован. По умолчанию, все ленты (фиды) отключены, и при запросах ленты пользователь будет перенаправлен на соответствующее HTML-содержимое (например, при запросе ленты страницы категории, будет автоматическая переадресация на саму страницу категории). Вы можете настроить это поведение ниже."

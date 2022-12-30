@@ -1,0 +1,48 @@
+# Translation of Plugins - Disable Feeds - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Disable Feeds - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-04 20:18:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Disable Feeds - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://rayofsolaris.net/"
+msgstr "https://www.rayofsolaris.net/"
+
+#. Author of the plugin/theme
+msgid "Samir Shah, BBpress support by Matthew Sigley"
+msgstr "Samir Shah, Unterstützung für BBpress durch Matthew Sigley"
+
+#. Description of the plugin/theme
+msgid "Disable all RSS/Atom feeds on your WordPress site."
+msgstr "Deaktiviert alle RSS-/Atom-Feeds deiner WordPress-Website."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/disable-feeds/"
+msgstr "https://de.wordpress.org/plugins/disable-feeds/"
+
+#. Plugin Name of the plugin/theme
+msgid "Disable Feeds"
+msgstr "Disable Feeds"
+
+#: disable-feeds.php:55
+msgid "Do not disable the <strong>global post feed</strong> and <strong>global comment feed</strong>"
+msgstr "Den <strong>globalen Beitrags-Feed</strong> und den <strong>globalen Kommentar-Feed</strong> nicht deaktivieren"
+
+#: disable-feeds.php:54
+msgid "Issue a Page Not Found (404) error for feed requests"
+msgstr "Einen „Seite nicht gefunden (404)“-Fehler für Feed-Anfragen ausgeben"
+
+#: disable-feeds.php:53
+msgid "Redirect feed requests to corresponding HTML content"
+msgstr "Feed-Anfragen auf die entsprechenden HTML-Inhalte weiterleiten"
+
+#: disable-feeds.php:52
+msgid "The <em>Disable Feeds</em> plugin is active, By default, all feeds are disabled, and all requests for feeds are redirected to the corresponding HTML content. You can tweak this behaviour below."
+msgstr "Das Plugin <em>Disable Feeds</em> ist aktiv. Standardmäßig sind alle Feeds deaktiviert und alle Feed-Anfragen werden auf den entsprechenden HTML-Inhalt weitergeleitet. Du kannst dieses Verhalten unten optimieren."

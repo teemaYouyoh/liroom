@@ -1,0 +1,86 @@
+# Translation of Plugins - Public Post Preview - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Public Post Preview - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-16 18:03:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Public Post Preview - Stable (latest release)\n"
+
+#: js/src/components/preview-toggle/index.js:105 js/gutenberg-integration.js:1
+msgid "Error while changing the public preview status."
+msgstr "Error al cambiar el estado de la vista previa pública."
+
+#: js/src/components/preview-toggle/index.js:94 js/gutenberg-integration.js:1
+msgid "Public preview disabled."
+msgstr "Vista previa desactivada."
+
+#: js/src/components/preview-toggle/index.js:94 js/gutenberg-integration.js:1
+msgid "Public preview enabled."
+msgstr "Vista previa activada."
+
+#: public-post-preview.php:484
+msgid "This link has expired!"
+msgstr "¡Este enlace ha caducado!"
+
+#. Author URI of the plugin
+msgid "https://dominikschilling.de/"
+msgstr "https://dominikschilling.de/"
+
+#. Description of the plugin
+msgid "Allow anonymous users to preview a post before it is published."
+msgstr "Permitir a los usuarios anónimos la vista previa de una entrada antes de que sea publicada."
+
+#: js/src/components/preview-toggle/index.js:136 js/gutenberg-integration.js:1
+msgid "Preview URL copied"
+msgstr "URL de la vista previa copiada"
+
+#: public-post-preview.php:223 js/src/components/preview-toggle/index.js:170
+#: js/gutenberg-integration.js:1
+msgid "Copy and share this preview URL."
+msgstr "Copia y comparte esta URL de la vista previa."
+
+#: js/src/components/preview-toggle/index.js:150 js/gutenberg-integration.js:1
+msgid "Preview URL"
+msgstr "URL de la vista previa"
+
+#: js/src/components/preview-toggle/index.js:136 js/gutenberg-integration.js:1
+msgid "Copy the preview URL"
+msgstr "Copiar la URL de la vista previa"
+
+#. Plugin URI of the plugin
+msgid "https://dominikschilling.de/wp-plugins/public-post-preview/en/"
+msgstr "https://dominikschilling.de/wp-plugins/public-post-preview/en/"
+
+#. Author of the plugin
+msgid "Dominik Schilling"
+msgstr "Dominik Schilling"
+
+#. Plugin Name of the plugin
+msgid "Public Post Preview"
+msgstr "Public Post Preview"
+
+#: public-post-preview.php:488
+msgid "No public preview available!"
+msgstr "¡No hay una vista previa pública disponible!"
+
+#: public-post-preview.php:218 js/src/components/preview-toggle/index.js:142
+#: js/gutenberg-integration.js:1
+msgid "Enable public preview"
+msgstr "Activar vista previa pública"
+
+#: public-post-preview.php:146
+msgid "Public Preview"
+msgstr "Vista previa pública"
+
+#: public-post-preview.php:129
+msgid "Disabled!"
+msgstr "¡Desactivado!"
+
+#: public-post-preview.php:128
+msgid "Enabled!"
+msgstr "¡Activado!"
